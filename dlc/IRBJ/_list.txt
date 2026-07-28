@@ -1,425 +1,425 @@
-0001 - BW - ポケスマ Cubchoo - JPN.bin	720
-0002 - BW - きょうえん Electabuzz - JPN.bin	720
-0002 - BW - きょうえん Haunter - JPN.bin	720
-0002 - BW - きょうえん Karrablast - JPN.bin	720
-0002 - BW - きょうえん Machoke - JPN.bin	720
-0002 - BW - きょうえん Magmar - JPN.bin	720
-0002 - BW - きょうえん Scyther - JPN.bin	720
-0002 - BW - きょうえん Shelmet - JPN.bin	720
-0002 - BW - きょうえん Slowpoke - JPN.bin	720
-0003 - BW - オーサカ Audino - JPN.bin	720
-0003 - BW - サッポロ Audino - JPN.bin	720
-0003 - BW - トウキョー Audino - JPN.bin	720
-0003 - BW - ナゴヤ Audino - JPN.bin	720
-0003 - BW - フクオカ Audino - JPN.bin	720
-0003 - BW - ヨコハマ Audino - JPN.bin	720
-0004 - BW - せいしゃ Electabuzz - JPN.bin	720
-0004 - BW - せいしゃ Haunter - JPN.bin	720
-0004 - BW - せいしゃ Kerrablast - JPN.bin	720
-0004 - BW - せいしゃ Machoke - JPN.bin	720
-0004 - BW - せいしゃ Magmar - JPN.bin	720
-0004 - BW - せいしゃ Scyther - JPN.bin	720
-0004 - BW - せいしゃ Shelmet - JPN.bin	720
-0004 - BW - せいしゃ Slowpoke - JPN.bin	720
-0005 - BW - めいじろう Electabuzz - JPN.bin	720
-0005 - BW - めいじろう Haunter - JPN.bin	720
-0005 - BW - めいじろう Kerrablast - JPN.bin	720
-0005 - BW - めいじろう Machoke - JPN.bin	720
-0005 - BW - めいじろう Magmar - JPN.bin	720
-0005 - BW - めいじろう Scyther - JPN.bin	720
-0005 - BW - めいじろう Shelmet - JPN.bin	720
-0005 - BW - めいじろう Slowpoke - JPN.bin	720
-0006 - BW - セントポル Electabuzz - JPN.bin	720
-0006 - BW - セントポル Haunter - JPN.bin	720
-0006 - BW - セントポル Kerrablast - JPN.bin	720
-0006 - BW - セントポル Machoke - JPN.bin	720
-0006 - BW - セントポル Magmar - JPN.bin	720
-0006 - BW - セントポル Scyther - JPN.bin	720
-0006 - BW - セントポル Shelmet - JPN.bin	720
-0006 - BW - セントポル Slowpoke - JPN.bin	720
-0007 - BW - ミカエル Electabuzz - JPN.bin	720
-0007 - BW - ミカエル Haunter - JPN.bin	720
-0007 - BW - ミカエル Kerrablast - JPN.bin	720
-0007 - BW - ミカエル Machoke - JPN.bin	720
-0007 - BW - ミカエル Magmar - JPN.bin	720
-0007 - BW - ミカエル Scyther - JPN.bin	720
-0007 - BW - ミカエル Shelmet - JPN.bin	720
-0007 - BW - ミカエル Slowpoke - JPN.bin	720
-0008 - BW - いちだい Electabuzz - JPN.bin	720
-0008 - BW - いちだい Haunter - JPN.bin	720
-0008 - BW - いちだい Kerrablast - JPN.bin	720
-0008 - BW - いちだい Machoke - JPN.bin	720
-0008 - BW - いちだい Magmar - JPN.bin	720
-0008 - BW - いちだい Scyther - JPN.bin	720
-0008 - BW - いちだい Shelmet - JPN.bin	720
-0008 - BW - いちだい Slowpoke - JPN.bin	720
-0009 - BW - はくもん Electabuzz - JPN.bin	720
-0009 - BW - はくもん Haunter - JPN.bin	720
-0009 - BW - はくもん Kerrablast - JPN.bin	720
-0009 - BW - はくもん Machoke - JPN.bin	720
-0009 - BW - はくもん Magmar - JPN.bin	720
-0009 - BW - はくもん Scyther - JPN.bin	720
-0009 - BW - はくもん Shelmet - JPN.bin	720
-0009 - BW - はくもん Slowpoke - JPN.bin	720
-0010 - BW - ほうせい Electabuzz - JPN.bin	720
-0010 - BW - ほうせい Haunter - JPN.bin	720
-0010 - BW - ほうせい Kerrablast - JPN.bin	720
-0010 - BW - ほうせい Machoke - JPN.bin	720
-0010 - BW - ほうせい Magmar - JPN.bin	720
-0010 - BW - ほうせい Scyther - JPN.bin	720
-0010 - BW - ほうせい Shelmet - JPN.bin	720
-0010 - BW - ほうせい Slowpoke - JPN.bin	720
-0011 - BW - とうかい Electabuzz - JPN.bin	720
-0011 - BW - とうかい Haunter - JPN.bin	720
-0011 - BW - とうかい Kerrablast - JPN.bin	720
-0011 - BW - とうかい Machoke - JPN.bin	720
-0011 - BW - とうかい Magmar - JPN.bin	720
-0011 - BW - とうかい Scyther - JPN.bin	720
-0011 - BW - とうかい Shelmet - JPN.bin	720
-0011 - BW - とうかい Slowpoke - JPN.bin	720
-0012 - BW - めいがく Electabuzz - JPN.bin	720
-0012 - BW - めいがく Haunter - JPN.bin	720
-0012 - BW - めいがく Kerrablast - JPN.bin	720
-0012 - BW - めいがく Machoke - JPN.bin	720
-0012 - BW - めいがく Magmar - JPN.bin	720
-0012 - BW - めいがく Scyther - JPN.bin	720
-0012 - BW - めいがく Shelmet - JPN.bin	720
-0012 - BW - めいがく Slowpoke - JPN.bin	720
-0013 - BW - すえかわ Electabuzz - JPN.bin	720
-0013 - BW - すえかわ Haunter - JPN.bin	720
-0013 - BW - すえかわ Kerrablast - JPN.bin	720
-0013 - BW - すえかわ Machoke - JPN.bin	720
-0013 - BW - すえかわ Magmar - JPN.bin	720
-0013 - BW - すえかわ Scyther - JPN.bin	720
-0013 - BW - すえかわ Shelmet - JPN.bin	720
-0013 - BW - すえかわ Slowpoke - JPN.bin	720
-0014 - BW - おおくま Electabuzz - JPN.bin	720
-0014 - BW - おおくま Haunter - JPN.bin	720
-0014 - BW - おおくま Kerrablast - JPN.bin	720
-0014 - BW - おおくま Machoke - JPN.bin	720
-0014 - BW - おおくま Magmar - JPN.bin	720
-0014 - BW - おおくま Scyther - JPN.bin	720
-0014 - BW - おおくま Shelmet - JPN.bin	720
-0014 - BW - おおくま Slowpoke - JPN.bin	720
-0015 - BW - こまざわ Electabuzz - JPN.bin	720
-0015 - BW - こまざわ Haunter - JPN.bin	720
-0015 - BW - こまざわ Kerrablast - JPN.bin	720
-0015 - BW - こまざわ Machoke - JPN.bin	720
-0015 - BW - こまざわ Magmar - JPN.bin	720
-0015 - BW - こまざわ Scyther - JPN.bin	720
-0015 - BW - こまざわ Shelmet - JPN.bin	720
-0015 - BW - こまざわ Slowpoke - JPN.bin	720
-0016 - BW - YNU Electabuzz (P) - JPN.bin	720
-0016 - BW - YNU Haunter (P) - JPN.bin	720
-0016 - BW - YNU Kerrablast (P) - JPN.bin	720
-0016 - BW - YNU Machoke (P) - JPN.bin	720
-0016 - BW - YNU Magmar (P) - JPN.bin	720
-0016 - BW - YNU Scyther (P) - JPN.bin	720
-0016 - BW - YNU Shelmet (P) - JPN.bin	720
-0016 - BW - YNU Slowpoke (P) - JPN.bin	720
-0017 - BW - まちかね Electabuzz - JPN.bin	720
-0017 - BW - まちかね Haunter - JPN.bin	720
-0017 - BW - まちかね Kerrablast - JPN.bin	720
-0017 - BW - まちかね Machoke - JPN.bin	720
-0017 - BW - まちかね Magmar - JPN.bin	720
-0017 - BW - まちかね Scyther - JPN.bin	720
-0017 - BW - まちかね Shelmet - JPN.bin	720
-0017 - BW - まちかね Slowpoke - JPN.bin	720
-0018 - BW - もみじ Electabuzz - JPN.bin	720
-0018 - BW - もみじ Haunter - JPN.bin	720
-0018 - BW - もみじ Kerrablast - JPN.bin	720
-0018 - BW - もみじ Machoke - JPN.bin	720
-0018 - BW - もみじ Magmar - JPN.bin	720
-0018 - BW - もみじ Scyther - JPN.bin	720
-0018 - BW - もみじ Shelmet - JPN.bin	720
-0018 - BW - もみじ Slowpoke - JPN.bin	720
-0019 - BW - ロンクー Electabuzz - JPN.bin	720
-0019 - BW - ロンクー Haunter - JPN.bin	720
-0019 - BW - ロンクー Kerrablast - JPN.bin	720
-0019 - BW - ロンクー Machoke - JPN.bin	720
-0019 - BW - ロンクー Magmar - JPN.bin	720
-0019 - BW - ロンクー Scyther - JPN.bin	720
-0019 - BW - ロンクー Shelmet - JPN.bin	720
-0019 - BW - ロンクー Slowpoke - JPN.bin	720
-0020 - BW - スエカワ Electabuzz - JPN.bin	720
-0020 - BW - スエカワ Haunter - JPN.bin	720
-0020 - BW - スエカワ Kerrablast - JPN.bin	720
-0020 - BW - スエカワ Machoke - JPN.bin	720
-0020 - BW - スエカワ Magmar - JPN.bin	720
-0020 - BW - スエカワ Scyther - JPN.bin	720
-0020 - BW - スエカワ Shelmet - JPN.bin	720
-0020 - BW - スエカワ Slowpoke - JPN.bin	720
-0021 - BW - しずっぴー Electabuzz - JPN.bin	720
-0021 - BW - しずっぴー Haunter - JPN.bin	720
-0021 - BW - しずっぴー Kerrablast - JPN.bin	720
-0021 - BW - しずっぴー Machoke - JPN.bin	720
-0021 - BW - しずっぴー Magmar - JPN.bin	720
-0021 - BW - しずっぴー Scyther - JPN.bin	720
-0021 - BW - しずっぴー Shelmet - JPN.bin	720
-0021 - BW - しずっぴー Slowpoke - JPN.bin	720
-0022 - BW - もえた Electabuzz - JPN.bin	720
-0022 - BW - もえた Haunter - JPN.bin	720
-0022 - BW - もえた Kerrablast - JPN.bin	720
-0022 - BW - もえた Machoke - JPN.bin	720
-0022 - BW - もえた Magmar - JPN.bin	720
-0022 - BW - もえた Scyther - JPN.bin	720
-0022 - BW - もえた Shelmet - JPN.bin	720
-0022 - BW - もえた Slowpoke - JPN.bin	720
-0023 - BW - わだいさい Electabuzz - JPN.bin	720
-0023 - BW - わだいさい Haunter - JPN.bin	720
-0023 - BW - わだいさい Kerrablast - JPN.bin	720
-0023 - BW - わだいさい Machoke - JPN.bin	720
-0023 - BW - わだいさい Magmar - JPN.bin	720
-0023 - BW - わだいさい Scyther - JPN.bin	720
-0023 - BW - わだいさい Shelmet - JPN.bin	720
-0023 - BW - わだいさい Slowpoke - JPN.bin	720
-0024 - BW - ふぃえすた Electabuzz - JPN.bin	720
-0024 - BW - ふぃえすた Haunter - JPN.bin	720
-0024 - BW - ふぃえすた Kerrablast - JPN.bin	720
-0024 - BW - ふぃえすた Machoke - JPN.bin	720
-0024 - BW - ふぃえすた Magmar - JPN.bin	720
-0024 - BW - ふぃえすた Scyther - JPN.bin	720
-0024 - BW - ふぃえすた Shelmet - JPN.bin	720
-0024 - BW - ふぃえすた Slowpoke - JPN.bin	720
-0025 - BW - ピーチくん Electabuzz - JPN.bin	720
-0025 - BW - ピーチくん Haunter - JPN.bin	720
-0025 - BW - ピーチくん Kerrablast - JPN.bin	720
-0025 - BW - ピーチくん Machoke - JPN.bin	720
-0025 - BW - ピーチくん Magmar - JPN.bin	720
-0025 - BW - ピーチくん Scyther - JPN.bin	720
-0025 - BW - ピーチくん Shelmet - JPN.bin	720
-0025 - BW - ピーチくん Slowpoke - JPN.bin	720
-0026 - BW - しょうだい Electabuzz - JPN.bin	720
-0026 - BW - しょうだい Haunter - JPN.bin	720
-0026 - BW - しょうだい Karrablast - JPN.bin	720
-0026 - BW - しょうだい Machoke - JPN.bin	720
-0026 - BW - しょうだい Magmar - JPN.bin	720
-0026 - BW - しょうだい Scyther - JPN.bin	720
-0026 - BW - しょうだい Shelmet - JPN.bin	720
-0026 - BW - しょうだい Slowpoke - JPN.bin	720
-0027 - BW - ちゅらうみ Electabuzz - JPN.bin	720
-0027 - BW - ちゅらうみ Haunter - JPN.bin	720
-0027 - BW - ちゅらうみ Kerrablast - JPN.bin	720
-0027 - BW - ちゅらうみ Machoke - JPN.bin	720
-0027 - BW - ちゅらうみ Magmar - JPN.bin	720
-0027 - BW - ちゅらうみ Scyther - JPN.bin	720
-0027 - BW - ちゅらうみ Shelmet - JPN.bin	720
-0027 - BW - ちゅらうみ Slowpoke - JPN.bin	720
-0028 - BW - ＡＮＡ Darkrai - JPN.bin	720
-0028 - BW - ふゆやすみ Darkrai - JPN.bin	720
-0029 - BW - (Trainer) Axew Egg - JPN.bin	720
-0029 - BW - (Trainer) Pansage Egg - JPN.bin	720
-0029 - BW - (Trainer) Pidove Egg - JPN.bin	720
-0030 - BW - ポケスマ！Zoroark - JPN.bin	720
-0031 - BW - サトシ Scraggy - JPN.bin	720
-0032 - BW - アイント Victini - JPN.bin	720
-0033 - B - サトシ Zekrom - JPN.bin	720
-0034 - BW - サーチャー Axew - JPN.bin	720
-0035 - B - サーチャー Hydreigon - JPN.bin	720
-0036 - BW - ＡＮＡ Pikachu - JPN.bin	720
-0038 - BW - ＥＬＴ Pikachu - JPN.bin	720
-0039 - BW - ＡＡＡ Pikachu - JPN.bin	720
-0040 - BW - チサ Pikachu - JPN.bin	720
-0041 - BW - アミーゴ Pikachu - JPN.bin	720
-0042 - BW - ＳＫＥ４８ Pikachu - JPN.bin	720
-0043 - BW - わっしょい Pikachu - JPN.bin	720
-0044 - BW - いえるかな Pikachu - JPN.bin	720
-0045 - BW - ちゅるの Pikachu - JPN.bin	720
-0048 - BW - ポケスマ！ Mewtwo - JPN.bin	720
-0049 - BW - トウホク Snivy - JPN.bin	720
-0050 - BW - オーサカ Audino - JPN.bin	720
-0050 - BW - サッポロ Audino - JPN.bin	720
-0050 - BW - トウキョー Audino - JPN.bin	720
-0050 - BW - トウホク Audino - JPN.bin	720
-0050 - BW - ナゴヤ Audino - JPN.bin	720
-0050 - BW - フクオカ Audino - JPN.bin	720
-0050 - BW - ヨコハマ Audino - JPN.bin	720
-0051 - B - ミロスとう Thundurus - JPN.bin	720
-0052 - BW - Item Master Ball - JPN.bin	720
-0053 - BW - ＰＣ Shaymin - JPN.bin	720
-0054 - BW - (Trainer) Bagon Egg - JPN.bin	720
-0054 - BW - (Trainer) Deino Egg - JPN.bin	720
-0054 - BW - (Trainer) Druddigon Egg - JPN.bin	720
-0054 - BW - (Trainer) Horsea Egg - JPN.bin	720
-0054 - BW - (Trainer) Swablu Egg - JPN.bin	720
-0054 - BW - (Trainer) Trapinch Egg - JPN.bin	720
-0055 - BW - (Trainer) Bagon Egg - JPN.bin	720
-0055 - BW - (Trainer) Deino Egg - JPN.bin	720
-0055 - BW - (Trainer) Druddigon Egg - JPN.bin	720
-0055 - BW - (Trainer) Horsea Egg - JPN.bin	720
-0055 - BW - (Trainer) Swablu Egg - JPN.bin	720
-0055 - BW - (Trainer) Trapinch Egg - JPN.bin	720
-0056 - BW - (Trainer) Bagon Egg - JPN.bin	720
-0056 - BW - (Trainer) Deino Egg - JPN.bin	720
-0056 - BW - (Trainer) Druddigon Egg - JPN.bin	720
-0056 - BW - (Trainer) Horsea Egg - JPN.bin	720
-0056 - BW - (Trainer) Swablu Egg - JPN.bin	720
-0056 - BW - (Trainer) Trapinch Egg - JPN.bin	720
-0057 - BW - (Trainer) Bagon Egg - JPN.bin	720
-0057 - BW - (Trainer) Deino Egg - JPN.bin	720
-0057 - BW - (Trainer) Druddigon Egg - JPN.bin	720
-0057 - BW - (Trainer) Horsea Egg - JPN.bin	720
-0057 - BW - (Trainer) Swablu Egg - JPN.bin	720
-0057 - BW - (Trainer) Trapinch Egg - JPN.bin	720
-0058 - BW - せんきょ Rayquaza - JPN.bin	720
-0059 - BW - ノブナガ Shiny Rayquaza - JPN.bin	720
-0062 - BW - ながさき Blaziken - JPN.bin	720
-0062 - BW - ながさき Sceptile - JPN.bin	720
-0062 - BW - ながさき Swampert - JPN.bin	720
-0063 - BW - ながさき Ludicolo - JPN.bin	720
-0063 - BW - ながさき Milotic - JPN.bin	720
-0063 - BW - ながさき Walrein - JPN.bin	720
-0064 - BW - ながさき Gardevoir - JPN.bin	720
-0064 - BW - ながさき Metagross - JPN.bin	720
-0064 - BW - ながさき Salamence - JPN.bin	720
-0065 - BW - フクオカ Groudon - JPN.bin	720
-0066 - BW - フクオカ Kyogre - JPN.bin	720
-0067 - BW - さくら Pikachu - JPN.bin	720
-0068 - BW - Item Master Ball - JPN.bin	720
-0069 - BWB2W2 - しょこたん Keldeo - JPN.bin	720
-0070 - BWB2W2 - えいがかん Meloetta - JPN.bin	720
-0071 - BW - トウホク Pikachu - JPN.bin	720
-0072 - BW - させぼ Blaziken - JPN.bin	720
-0072 - BW - させぼ Sceptile - JPN.bin	720
-0072 - BW - させぼ Swampert - JPN.bin	720
-0073 - BW - させぼ Ludicolo - JPN.bin	720
-0073 - BW - させぼ Milotic - JPN.bin	720
-0073 - BW - させぼ Walrein - JPN.bin	720
-0074 - BW - させぼ Gardevoir - JPN.bin	720
-0074 - BW - させぼ Metagross - JPN.bin	720
-0074 - BW - させぼ Salamence - JPN.bin	720
-0075 - BW - さが Blaziken - JPN.bin	720
-0075 - BW - さが Sceptile - JPN.bin	720
-0075 - BW - さが Swampert - JPN.bin	720
-0076 - BW - さが Ludicolo - JPN.bin	720
-0076 - BW - さが Milotic - JPN.bin	720
-0076 - BW - さが Walrein - JPN.bin	720
-0077 - BW - さが Gardevoir - JPN.bin	720
-0077 - BW - さが Metagross - JPN.bin	720
-0077 - BW - さが Salamence - JPN.bin	720
-0078 - BW - くまもと Blaziken - JPN.bin	720
-0078 - BW - くまもと Sceptile - JPN.bin	720
-0078 - BW - くまもと Swampert - JPN.bin	720
-0079 - BW - くまもと Ludicolo - JPN.bin	720
-0079 - BW - くまもと Milotic - JPN.bin	720
-0079 - BW - くまもと Walrein - JPN.bin	720
-0080 - BW - くまもと Gardevoir - JPN.bin	720
-0080 - BW - くまもと Metagross - JPN.bin	720
-0080 - BW - くまもと Salamence - JPN.bin	720
-0081 - BW - かごしま Blaziken - JPN.bin	720
-0081 - BW - かごしま Sceptile - JPN.bin	720
-0081 - BW - かごしま Swampert - JPN.bin	720
-0082 - BW - かごしま Ludicolo - JPN.bin	720
-0082 - BW - かごしま Milotic - JPN.bin	720
-0082 - BW - かごしま Walrein - JPN.bin	720
-0083 - BW - かごしま Gardevoir - JPN.bin	720
-0083 - BW - かごしま Metagross - JPN.bin	720
-0083 - BW - かごしま Salamence - JPN.bin	720
-0084 - BW - べっぷ Blaziken - JPN.bin	720
-0084 - BW - べっぷ Sceptile - JPN.bin	720
-0084 - BW - べっぷ Swampert - JPN.bin	720
-0085 - BW - べっぷ Ludicolo - JPN.bin	720
-0085 - BW - べっぷ Milotic - JPN.bin	720
-0085 - BW - べっぷ Walrein - JPN.bin	720
-0086 - BW - べっぷ Gardevoir - JPN.bin	720
-0086 - BW - べっぷ Metagross - JPN.bin	720
-0086 - BW - べっぷ Salamence - JPN.bin	720
-0087 - BW - みやざき Blaziken - JPN.bin	720
-0087 - BW - みやざき Sceptile - JPN.bin	720
-0087 - BW - みやざき Swampert - JPN.bin	720
-0088 - BW - みやざき Ludicolo - JPN.bin	720
-0088 - BW - みやざき Milotic - JPN.bin	720
-0088 - BW - みやざき Walrein - JPN.bin	720
-0089 - BW - みやざき Gardevoir - JPN.bin	720
-0089 - BW - みやざき Metagross - JPN.bin	720
-0089 - BW - みやざき Salamence - JPN.bin	720
-0090 - BW - こくら Blaziken - JPN.bin	720
-0090 - BW - こくら Sceptile - JPN.bin	720
-0090 - BW - こくら Swampert - JPN.bin	720
-0091 - BW - こくら Ludicolo - JPN.bin	720
-0091 - BW - こくら Milotic - JPN.bin	720
-0091 - BW - こくら Walrein - JPN.bin	720
-0092 - BW - こくら Gardevoir - JPN.bin	720
-0092 - BW - こくら Metagross - JPN.bin	720
-0092 - BW - こくら Salamence - JPN.bin	720
-0093 - BW - サーチャー Piplup - JPN.bin	720
-0096 - BW - おまつり Pikachu - JPN.bin	720
-0098 - BWB2W2 - キャンプ Aerodactyl - JPN.bin	720
-0098 - BWB2W2 - キャンプ Anorith - JPN.bin	720
-0098 - BWB2W2 - キャンプ Archen - JPN.bin	720
-0098 - BWB2W2 - キャンプ Cranidos - JPN.bin	720
-0098 - BWB2W2 - キャンプ Kabuto - JPN.bin	720
-0098 - BWB2W2 - キャンプ Lileep - JPN.bin	720
-0098 - BWB2W2 - キャンプ Omanyte - JPN.bin	720
-0098 - BWB2W2 - キャンプ Shieldon - JPN.bin	720
-0098 - BWB2W2 - キャンプ Tirtouga - JPN.bin	720
-0101 - BW - PC Ninetales - JPN.bin	720
-0102 - BW - PC Chandelure - JPN.bin	720
-0103 - BW - PC Whimsicott - JPN.bin	720
-0104 - BW - PC Lucario - JPN.bin	720
-0124 - BWB2W2 - オーサカ Audino - JPN.bin	720
-0124 - BWB2W2 - サッポロ Audino - JPN.bin	720
-0124 - BWB2W2 - トウキョー Audino - JPN.bin	720
-0124 - BWB2W2 - トウホク Audino - JPN.bin	720
-0124 - BWB2W2 - ナゴヤ Audino - JPN.bin	720
-0124 - BWB2W2 - フクオカ Audino - JPN.bin	720
-0124 - BWB2W2 - ヨコハマ Audino - JPN.bin	720
-0125 - BWB2W2 - トウホク Victini - JPN.bin	720
-0127 - BWB2W2 - Ｐ２ラボ Genesect - JPN.bin	720
-0133 - BWB2W2 - マスダ Deoxys - JPN.bin	720
-0134 - BWB2W2 - ナゴヤ Shiny Magikarp - JPN.bin	720
-0135 - BWB2W2 - Ｐヒルズ Mewtwo - JPN.bin	720
-0136 - BWB2W2 - えいがかん Shiny Genesect - JPN.bin	720
-0137 - BWB2W2 - デコロラ Jirachi - JPN.bin	720
-0138 - BWB2W2 - キヨ Eevee - JPN.bin	720
-0139 - BWB2W2 - ＰＣＳ Empoleon - JPN.bin	720
-0140 - BWB2W2 - ＰＣＴＨ Serperior - JPN.bin	720
-0141 - BWB2W2 - ＰＣＴ Pikachu - JPN.bin	720
-0142 - BWB2W2 - ＰＣＹ Torterra - JPN.bin	720
-0143 - BWB2W2 - ＰＣＮ Infernape - JPN.bin	720
-0144 - BWB2W2 - ＰＣＯ Emboar - JPN.bin	720
-0145 - BWB2W2 - ＰＣＦ Samurott - JPN.bin	720
-0146 - BWB2W2 - ＰＣＦ Samurott - JPN.bin	720
-0146 - BWB2W2 - ＰＣＮ Infernape - JPN.bin	720
-0146 - BWB2W2 - ＰＣＯ Emboar - JPN.bin	720
-0146 - BWB2W2 - ＰＣＳ Empoleon - JPN.bin	720
-0146 - BWB2W2 - ＰＣＴ Pikachu - JPN.bin	720
-0146 - BWB2W2 - ＰＣＴＨ Serperior - JPN.bin	720
-0146 - BWB2W2 - ＰＣＹ Torterra - JPN.bin	720
-0147 - BWB2W2 - キヨ Eevee - JPN.bin	720
-0151 - BWB2W2 - たなばた Jirachi - JPN.bin	720
-0152 - BWB2W2 - イベント Pikachu (HK) - JPN.bin	720
-0156 - BWB2W2 - アイリス Haxorus - JPN.bin	720
-0156 - BWB2W2 - アデク Volcarona - JPN.bin	720
-0156 - BWB2W2 - グリーン Pidgeot - JPN.bin	720
-0156 - BWB2W2 - シロナ Spiritomb - JPN.bin	720
-0156 - BWB2W2 - ダイゴ Metagross - JPN.bin	720
-0156 - BWB2W2 - ミクリ Milotic - JPN.bin	720
-0156 - BWB2W2 - ワタル Dragonite - JPN.bin	720
-0157 - BWB2W2 - アイリス Haxorus - JPN.bin	720
-0157 - BWB2W2 - アデク Volcarona - JPN.bin	720
-0157 - BWB2W2 - グリーン Pidgeot - JPN.bin	720
-0157 - BWB2W2 - シロナ Spiritomb - JPN.bin	720
-0157 - BWB2W2 - ダイゴ Metagross - JPN.bin	720
-0157 - BWB2W2 - ミクリ Milotic - JPN.bin	720
-0157 - BWB2W2 - ワタル Dragonite - JPN.bin	720
-0158 - BWB2W2 - アイリス Axew - JPN.bin	720
-0158 - BWB2W2 - オーキド Rotom - JPN.bin	720
-0158 - BWB2W2 - サトシ Pikachu - JPN.bin	720
-0158 - BWB2W2 - デント Pansage - JPN.bin	720
-0159 - BWB2W2 - アイリス Axew - JPN.bin	720
-0159 - BWB2W2 - オーキド Rotom - JPN.bin	720
-0159 - BWB2W2 - サトシ Pikachu - JPN.bin	720
-0159 - BWB2W2 - デント Pansage - JPN.bin	720
-0160 - BWB2W2 - アイリス Axew - JPN.bin	720
-0160 - BWB2W2 - オーキド Rotom - JPN.bin	720
-0160 - BWB2W2 - サトシ Pikachu - JPN.bin	720
-0160 - BWB2W2 - デント Pansage - JPN.bin	720
-0161 - BWB2W2 - アイリス Axew - JPN.bin	720
-0161 - BWB2W2 - オーキド Rotom - JPN.bin	720
-0161 - BWB2W2 - サトシ Pikachu - JPN.bin	720
-0161 - BWB2W2 - デント Pansage - JPN.bin	720
-0165 - BWB2W2 - しょちょう Sableye - JPN.bin	720
-0166 - BWB2W2 - ヤマモト Politoed - JPN.bin	720
-0167 - BWB2W2 - ヤマモト Kingdra - JPN.bin	720
-2046 - BW - Item Liberty Pass - JPN.bin	720
+0001 - BW - ポケスマ Cubchoo - JPN.bin		MYSTERY_J	300000		720
+0002 - BW - きょうえん Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0002 - BW - きょうえん Haunter - JPN.bin		MYSTERY_J	300000		720
+0002 - BW - きょうえん Karrablast - JPN.bin		MYSTERY_J	300000		720
+0002 - BW - きょうえん Machoke - JPN.bin		MYSTERY_J	300000		720
+0002 - BW - きょうえん Magmar - JPN.bin		MYSTERY_J	300000		720
+0002 - BW - きょうえん Scyther - JPN.bin		MYSTERY_J	300000		720
+0002 - BW - きょうえん Shelmet - JPN.bin		MYSTERY_J	300000		720
+0002 - BW - きょうえん Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0003 - BW - オーサカ Audino - JPN.bin		MYSTERY_J	300000		720
+0003 - BW - サッポロ Audino - JPN.bin		MYSTERY_J	300000		720
+0003 - BW - トウキョー Audino - JPN.bin		MYSTERY_J	300000		720
+0003 - BW - ナゴヤ Audino - JPN.bin		MYSTERY_J	300000		720
+0003 - BW - フクオカ Audino - JPN.bin		MYSTERY_J	300000		720
+0003 - BW - ヨコハマ Audino - JPN.bin		MYSTERY_J	300000		720
+0004 - BW - せいしゃ Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0004 - BW - せいしゃ Haunter - JPN.bin		MYSTERY_J	300000		720
+0004 - BW - せいしゃ Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0004 - BW - せいしゃ Machoke - JPN.bin		MYSTERY_J	300000		720
+0004 - BW - せいしゃ Magmar - JPN.bin		MYSTERY_J	300000		720
+0004 - BW - せいしゃ Scyther - JPN.bin		MYSTERY_J	300000		720
+0004 - BW - せいしゃ Shelmet - JPN.bin		MYSTERY_J	300000		720
+0004 - BW - せいしゃ Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0005 - BW - めいじろう Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0005 - BW - めいじろう Haunter - JPN.bin		MYSTERY_J	300000		720
+0005 - BW - めいじろう Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0005 - BW - めいじろう Machoke - JPN.bin		MYSTERY_J	300000		720
+0005 - BW - めいじろう Magmar - JPN.bin		MYSTERY_J	300000		720
+0005 - BW - めいじろう Scyther - JPN.bin		MYSTERY_J	300000		720
+0005 - BW - めいじろう Shelmet - JPN.bin		MYSTERY_J	300000		720
+0005 - BW - めいじろう Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0006 - BW - セントポル Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0006 - BW - セントポル Haunter - JPN.bin		MYSTERY_J	300000		720
+0006 - BW - セントポル Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0006 - BW - セントポル Machoke - JPN.bin		MYSTERY_J	300000		720
+0006 - BW - セントポル Magmar - JPN.bin		MYSTERY_J	300000		720
+0006 - BW - セントポル Scyther - JPN.bin		MYSTERY_J	300000		720
+0006 - BW - セントポル Shelmet - JPN.bin		MYSTERY_J	300000		720
+0006 - BW - セントポル Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0007 - BW - ミカエル Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0007 - BW - ミカエル Haunter - JPN.bin		MYSTERY_J	300000		720
+0007 - BW - ミカエル Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0007 - BW - ミカエル Machoke - JPN.bin		MYSTERY_J	300000		720
+0007 - BW - ミカエル Magmar - JPN.bin		MYSTERY_J	300000		720
+0007 - BW - ミカエル Scyther - JPN.bin		MYSTERY_J	300000		720
+0007 - BW - ミカエル Shelmet - JPN.bin		MYSTERY_J	300000		720
+0007 - BW - ミカエル Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0008 - BW - いちだい Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0008 - BW - いちだい Haunter - JPN.bin		MYSTERY_J	300000		720
+0008 - BW - いちだい Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0008 - BW - いちだい Machoke - JPN.bin		MYSTERY_J	300000		720
+0008 - BW - いちだい Magmar - JPN.bin		MYSTERY_J	300000		720
+0008 - BW - いちだい Scyther - JPN.bin		MYSTERY_J	300000		720
+0008 - BW - いちだい Shelmet - JPN.bin		MYSTERY_J	300000		720
+0008 - BW - いちだい Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0009 - BW - はくもん Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0009 - BW - はくもん Haunter - JPN.bin		MYSTERY_J	300000		720
+0009 - BW - はくもん Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0009 - BW - はくもん Machoke - JPN.bin		MYSTERY_J	300000		720
+0009 - BW - はくもん Magmar - JPN.bin		MYSTERY_J	300000		720
+0009 - BW - はくもん Scyther - JPN.bin		MYSTERY_J	300000		720
+0009 - BW - はくもん Shelmet - JPN.bin		MYSTERY_J	300000		720
+0009 - BW - はくもん Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0010 - BW - ほうせい Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0010 - BW - ほうせい Haunter - JPN.bin		MYSTERY_J	300000		720
+0010 - BW - ほうせい Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0010 - BW - ほうせい Machoke - JPN.bin		MYSTERY_J	300000		720
+0010 - BW - ほうせい Magmar - JPN.bin		MYSTERY_J	300000		720
+0010 - BW - ほうせい Scyther - JPN.bin		MYSTERY_J	300000		720
+0010 - BW - ほうせい Shelmet - JPN.bin		MYSTERY_J	300000		720
+0010 - BW - ほうせい Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0011 - BW - とうかい Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0011 - BW - とうかい Haunter - JPN.bin		MYSTERY_J	300000		720
+0011 - BW - とうかい Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0011 - BW - とうかい Machoke - JPN.bin		MYSTERY_J	300000		720
+0011 - BW - とうかい Magmar - JPN.bin		MYSTERY_J	300000		720
+0011 - BW - とうかい Scyther - JPN.bin		MYSTERY_J	300000		720
+0011 - BW - とうかい Shelmet - JPN.bin		MYSTERY_J	300000		720
+0011 - BW - とうかい Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0012 - BW - めいがく Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0012 - BW - めいがく Haunter - JPN.bin		MYSTERY_J	300000		720
+0012 - BW - めいがく Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0012 - BW - めいがく Machoke - JPN.bin		MYSTERY_J	300000		720
+0012 - BW - めいがく Magmar - JPN.bin		MYSTERY_J	300000		720
+0012 - BW - めいがく Scyther - JPN.bin		MYSTERY_J	300000		720
+0012 - BW - めいがく Shelmet - JPN.bin		MYSTERY_J	300000		720
+0012 - BW - めいがく Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0013 - BW - すえかわ Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0013 - BW - すえかわ Haunter - JPN.bin		MYSTERY_J	300000		720
+0013 - BW - すえかわ Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0013 - BW - すえかわ Machoke - JPN.bin		MYSTERY_J	300000		720
+0013 - BW - すえかわ Magmar - JPN.bin		MYSTERY_J	300000		720
+0013 - BW - すえかわ Scyther - JPN.bin		MYSTERY_J	300000		720
+0013 - BW - すえかわ Shelmet - JPN.bin		MYSTERY_J	300000		720
+0013 - BW - すえかわ Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0014 - BW - おおくま Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0014 - BW - おおくま Haunter - JPN.bin		MYSTERY_J	300000		720
+0014 - BW - おおくま Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0014 - BW - おおくま Machoke - JPN.bin		MYSTERY_J	300000		720
+0014 - BW - おおくま Magmar - JPN.bin		MYSTERY_J	300000		720
+0014 - BW - おおくま Scyther - JPN.bin		MYSTERY_J	300000		720
+0014 - BW - おおくま Shelmet - JPN.bin		MYSTERY_J	300000		720
+0014 - BW - おおくま Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0015 - BW - こまざわ Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0015 - BW - こまざわ Haunter - JPN.bin		MYSTERY_J	300000		720
+0015 - BW - こまざわ Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0015 - BW - こまざわ Machoke - JPN.bin		MYSTERY_J	300000		720
+0015 - BW - こまざわ Magmar - JPN.bin		MYSTERY_J	300000		720
+0015 - BW - こまざわ Scyther - JPN.bin		MYSTERY_J	300000		720
+0015 - BW - こまざわ Shelmet - JPN.bin		MYSTERY_J	300000		720
+0015 - BW - こまざわ Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0016 - BW - YNU Electabuzz (P) - JPN.bin		MYSTERY_J	300000		720
+0016 - BW - YNU Haunter (P) - JPN.bin		MYSTERY_J	300000		720
+0016 - BW - YNU Kerrablast (P) - JPN.bin		MYSTERY_J	300000		720
+0016 - BW - YNU Machoke (P) - JPN.bin		MYSTERY_J	300000		720
+0016 - BW - YNU Magmar (P) - JPN.bin		MYSTERY_J	300000		720
+0016 - BW - YNU Scyther (P) - JPN.bin		MYSTERY_J	300000		720
+0016 - BW - YNU Shelmet (P) - JPN.bin		MYSTERY_J	300000		720
+0016 - BW - YNU Slowpoke (P) - JPN.bin		MYSTERY_J	300000		720
+0017 - BW - まちかね Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0017 - BW - まちかね Haunter - JPN.bin		MYSTERY_J	300000		720
+0017 - BW - まちかね Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0017 - BW - まちかね Machoke - JPN.bin		MYSTERY_J	300000		720
+0017 - BW - まちかね Magmar - JPN.bin		MYSTERY_J	300000		720
+0017 - BW - まちかね Scyther - JPN.bin		MYSTERY_J	300000		720
+0017 - BW - まちかね Shelmet - JPN.bin		MYSTERY_J	300000		720
+0017 - BW - まちかね Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0018 - BW - もみじ Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0018 - BW - もみじ Haunter - JPN.bin		MYSTERY_J	300000		720
+0018 - BW - もみじ Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0018 - BW - もみじ Machoke - JPN.bin		MYSTERY_J	300000		720
+0018 - BW - もみじ Magmar - JPN.bin		MYSTERY_J	300000		720
+0018 - BW - もみじ Scyther - JPN.bin		MYSTERY_J	300000		720
+0018 - BW - もみじ Shelmet - JPN.bin		MYSTERY_J	300000		720
+0018 - BW - もみじ Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0019 - BW - ロンクー Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0019 - BW - ロンクー Haunter - JPN.bin		MYSTERY_J	300000		720
+0019 - BW - ロンクー Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0019 - BW - ロンクー Machoke - JPN.bin		MYSTERY_J	300000		720
+0019 - BW - ロンクー Magmar - JPN.bin		MYSTERY_J	300000		720
+0019 - BW - ロンクー Scyther - JPN.bin		MYSTERY_J	300000		720
+0019 - BW - ロンクー Shelmet - JPN.bin		MYSTERY_J	300000		720
+0019 - BW - ロンクー Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0020 - BW - スエカワ Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0020 - BW - スエカワ Haunter - JPN.bin		MYSTERY_J	300000		720
+0020 - BW - スエカワ Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0020 - BW - スエカワ Machoke - JPN.bin		MYSTERY_J	300000		720
+0020 - BW - スエカワ Magmar - JPN.bin		MYSTERY_J	300000		720
+0020 - BW - スエカワ Scyther - JPN.bin		MYSTERY_J	300000		720
+0020 - BW - スエカワ Shelmet - JPN.bin		MYSTERY_J	300000		720
+0020 - BW - スエカワ Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0021 - BW - しずっぴー Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0021 - BW - しずっぴー Haunter - JPN.bin		MYSTERY_J	300000		720
+0021 - BW - しずっぴー Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0021 - BW - しずっぴー Machoke - JPN.bin		MYSTERY_J	300000		720
+0021 - BW - しずっぴー Magmar - JPN.bin		MYSTERY_J	300000		720
+0021 - BW - しずっぴー Scyther - JPN.bin		MYSTERY_J	300000		720
+0021 - BW - しずっぴー Shelmet - JPN.bin		MYSTERY_J	300000		720
+0021 - BW - しずっぴー Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0022 - BW - もえた Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0022 - BW - もえた Haunter - JPN.bin		MYSTERY_J	300000		720
+0022 - BW - もえた Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0022 - BW - もえた Machoke - JPN.bin		MYSTERY_J	300000		720
+0022 - BW - もえた Magmar - JPN.bin		MYSTERY_J	300000		720
+0022 - BW - もえた Scyther - JPN.bin		MYSTERY_J	300000		720
+0022 - BW - もえた Shelmet - JPN.bin		MYSTERY_J	300000		720
+0022 - BW - もえた Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0023 - BW - わだいさい Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0023 - BW - わだいさい Haunter - JPN.bin		MYSTERY_J	300000		720
+0023 - BW - わだいさい Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0023 - BW - わだいさい Machoke - JPN.bin		MYSTERY_J	300000		720
+0023 - BW - わだいさい Magmar - JPN.bin		MYSTERY_J	300000		720
+0023 - BW - わだいさい Scyther - JPN.bin		MYSTERY_J	300000		720
+0023 - BW - わだいさい Shelmet - JPN.bin		MYSTERY_J	300000		720
+0023 - BW - わだいさい Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0024 - BW - ふぃえすた Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0024 - BW - ふぃえすた Haunter - JPN.bin		MYSTERY_J	300000		720
+0024 - BW - ふぃえすた Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0024 - BW - ふぃえすた Machoke - JPN.bin		MYSTERY_J	300000		720
+0024 - BW - ふぃえすた Magmar - JPN.bin		MYSTERY_J	300000		720
+0024 - BW - ふぃえすた Scyther - JPN.bin		MYSTERY_J	300000		720
+0024 - BW - ふぃえすた Shelmet - JPN.bin		MYSTERY_J	300000		720
+0024 - BW - ふぃえすた Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0025 - BW - ピーチくん Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0025 - BW - ピーチくん Haunter - JPN.bin		MYSTERY_J	300000		720
+0025 - BW - ピーチくん Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0025 - BW - ピーチくん Machoke - JPN.bin		MYSTERY_J	300000		720
+0025 - BW - ピーチくん Magmar - JPN.bin		MYSTERY_J	300000		720
+0025 - BW - ピーチくん Scyther - JPN.bin		MYSTERY_J	300000		720
+0025 - BW - ピーチくん Shelmet - JPN.bin		MYSTERY_J	300000		720
+0025 - BW - ピーチくん Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0026 - BW - しょうだい Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0026 - BW - しょうだい Haunter - JPN.bin		MYSTERY_J	300000		720
+0026 - BW - しょうだい Karrablast - JPN.bin		MYSTERY_J	300000		720
+0026 - BW - しょうだい Machoke - JPN.bin		MYSTERY_J	300000		720
+0026 - BW - しょうだい Magmar - JPN.bin		MYSTERY_J	300000		720
+0026 - BW - しょうだい Scyther - JPN.bin		MYSTERY_J	300000		720
+0026 - BW - しょうだい Shelmet - JPN.bin		MYSTERY_J	300000		720
+0026 - BW - しょうだい Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0027 - BW - ちゅらうみ Electabuzz - JPN.bin		MYSTERY_J	300000		720
+0027 - BW - ちゅらうみ Haunter - JPN.bin		MYSTERY_J	300000		720
+0027 - BW - ちゅらうみ Kerrablast - JPN.bin		MYSTERY_J	300000		720
+0027 - BW - ちゅらうみ Machoke - JPN.bin		MYSTERY_J	300000		720
+0027 - BW - ちゅらうみ Magmar - JPN.bin		MYSTERY_J	300000		720
+0027 - BW - ちゅらうみ Scyther - JPN.bin		MYSTERY_J	300000		720
+0027 - BW - ちゅらうみ Shelmet - JPN.bin		MYSTERY_J	300000		720
+0027 - BW - ちゅらうみ Slowpoke - JPN.bin		MYSTERY_J	300000		720
+0028 - BW - ＡＮＡ Darkrai - JPN.bin		MYSTERY_J	300000		720
+0028 - BW - ふゆやすみ Darkrai - JPN.bin		MYSTERY_J	300000		720
+0029 - BW - (Trainer) Axew Egg - JPN.bin		MYSTERY_J	300000		720
+0029 - BW - (Trainer) Pansage Egg - JPN.bin		MYSTERY_J	300000		720
+0029 - BW - (Trainer) Pidove Egg - JPN.bin		MYSTERY_J	300000		720
+0030 - BW - ポケスマ！Zoroark - JPN.bin		MYSTERY_J	300000		720
+0031 - BW - サトシ Scraggy - JPN.bin		MYSTERY_J	300000		720
+0032 - BW - アイント Victini - JPN.bin		MYSTERY_J	300000		720
+0033 - B - サトシ Zekrom - JPN.bin		MYSTERY_J	200000		720
+0034 - BW - サーチャー Axew - JPN.bin		MYSTERY_J	300000		720
+0035 - B - サーチャー Hydreigon - JPN.bin		MYSTERY_J	200000		720
+0036 - BW - ＡＮＡ Pikachu - JPN.bin		MYSTERY_J	300000		720
+0038 - BW - ＥＬＴ Pikachu - JPN.bin		MYSTERY_J	300000		720
+0039 - BW - ＡＡＡ Pikachu - JPN.bin		MYSTERY_J	300000		720
+0040 - BW - チサ Pikachu - JPN.bin		MYSTERY_J	300000		720
+0041 - BW - アミーゴ Pikachu - JPN.bin		MYSTERY_J	300000		720
+0042 - BW - ＳＫＥ４８ Pikachu - JPN.bin		MYSTERY_J	300000		720
+0043 - BW - わっしょい Pikachu - JPN.bin		MYSTERY_J	300000		720
+0044 - BW - いえるかな Pikachu - JPN.bin		MYSTERY_J	300000		720
+0045 - BW - ちゅるの Pikachu - JPN.bin		MYSTERY_J	300000		720
+0048 - BW - ポケスマ！ Mewtwo - JPN.bin		MYSTERY_J	300000		720
+0049 - BW - トウホク Snivy - JPN.bin		MYSTERY_J	300000		720
+0050 - BW - オーサカ Audino - JPN.bin		MYSTERY_J	300000		720
+0050 - BW - サッポロ Audino - JPN.bin		MYSTERY_J	300000		720
+0050 - BW - トウキョー Audino - JPN.bin		MYSTERY_J	300000		720
+0050 - BW - トウホク Audino - JPN.bin		MYSTERY_J	300000		720
+0050 - BW - ナゴヤ Audino - JPN.bin		MYSTERY_J	300000		720
+0050 - BW - フクオカ Audino - JPN.bin		MYSTERY_J	300000		720
+0050 - BW - ヨコハマ Audino - JPN.bin		MYSTERY_J	300000		720
+0051 - B - ミロスとう Thundurus - JPN.bin		MYSTERY_J	200000		720
+0052 - BW - Item Master Ball - JPN.bin		MYSTERY_J	300000		720
+0053 - BW - ＰＣ Shaymin - JPN.bin		MYSTERY_J	300000		720
+0054 - BW - (Trainer) Bagon Egg - JPN.bin		MYSTERY_J	300000		720
+0054 - BW - (Trainer) Deino Egg - JPN.bin		MYSTERY_J	300000		720
+0054 - BW - (Trainer) Druddigon Egg - JPN.bin		MYSTERY_J	300000		720
+0054 - BW - (Trainer) Horsea Egg - JPN.bin		MYSTERY_J	300000		720
+0054 - BW - (Trainer) Swablu Egg - JPN.bin		MYSTERY_J	300000		720
+0054 - BW - (Trainer) Trapinch Egg - JPN.bin		MYSTERY_J	300000		720
+0055 - BW - (Trainer) Bagon Egg - JPN.bin		MYSTERY_J	300000		720
+0055 - BW - (Trainer) Deino Egg - JPN.bin		MYSTERY_J	300000		720
+0055 - BW - (Trainer) Druddigon Egg - JPN.bin		MYSTERY_J	300000		720
+0055 - BW - (Trainer) Horsea Egg - JPN.bin		MYSTERY_J	300000		720
+0055 - BW - (Trainer) Swablu Egg - JPN.bin		MYSTERY_J	300000		720
+0055 - BW - (Trainer) Trapinch Egg - JPN.bin		MYSTERY_J	300000		720
+0056 - BW - (Trainer) Bagon Egg - JPN.bin		MYSTERY_J	300000		720
+0056 - BW - (Trainer) Deino Egg - JPN.bin		MYSTERY_J	300000		720
+0056 - BW - (Trainer) Druddigon Egg - JPN.bin		MYSTERY_J	300000		720
+0056 - BW - (Trainer) Horsea Egg - JPN.bin		MYSTERY_J	300000		720
+0056 - BW - (Trainer) Swablu Egg - JPN.bin		MYSTERY_J	300000		720
+0056 - BW - (Trainer) Trapinch Egg - JPN.bin		MYSTERY_J	300000		720
+0057 - BW - (Trainer) Bagon Egg - JPN.bin		MYSTERY_J	300000		720
+0057 - BW - (Trainer) Deino Egg - JPN.bin		MYSTERY_J	300000		720
+0057 - BW - (Trainer) Druddigon Egg - JPN.bin		MYSTERY_J	300000		720
+0057 - BW - (Trainer) Horsea Egg - JPN.bin		MYSTERY_J	300000		720
+0057 - BW - (Trainer) Swablu Egg - JPN.bin		MYSTERY_J	300000		720
+0057 - BW - (Trainer) Trapinch Egg - JPN.bin		MYSTERY_J	300000		720
+0058 - BW - せんきょ Rayquaza - JPN.bin		MYSTERY_J	300000		720
+0059 - BW - ノブナガ Shiny Rayquaza - JPN.bin		MYSTERY_J	300000		720
+0062 - BW - ながさき Blaziken - JPN.bin		MYSTERY_J	300000		720
+0062 - BW - ながさき Sceptile - JPN.bin		MYSTERY_J	300000		720
+0062 - BW - ながさき Swampert - JPN.bin		MYSTERY_J	300000		720
+0063 - BW - ながさき Ludicolo - JPN.bin		MYSTERY_J	300000		720
+0063 - BW - ながさき Milotic - JPN.bin		MYSTERY_J	300000		720
+0063 - BW - ながさき Walrein - JPN.bin		MYSTERY_J	300000		720
+0064 - BW - ながさき Gardevoir - JPN.bin		MYSTERY_J	300000		720
+0064 - BW - ながさき Metagross - JPN.bin		MYSTERY_J	300000		720
+0064 - BW - ながさき Salamence - JPN.bin		MYSTERY_J	300000		720
+0065 - BW - フクオカ Groudon - JPN.bin		MYSTERY_J	300000		720
+0066 - BW - フクオカ Kyogre - JPN.bin		MYSTERY_J	300000		720
+0067 - BW - さくら Pikachu - JPN.bin		MYSTERY_J	300000		720
+0068 - BW - Item Master Ball - JPN.bin		MYSTERY_J	300000		720
+0069 - BWB2W2 - しょこたん Keldeo - JPN.bin		MYSTERY_J	f00000		720
+0070 - BWB2W2 - えいがかん Meloetta - JPN.bin		MYSTERY_J	f00000		720
+0071 - BW - トウホク Pikachu - JPN.bin		MYSTERY_J	300000		720
+0072 - BW - させぼ Blaziken - JPN.bin		MYSTERY_J	300000		720
+0072 - BW - させぼ Sceptile - JPN.bin		MYSTERY_J	300000		720
+0072 - BW - させぼ Swampert - JPN.bin		MYSTERY_J	300000		720
+0073 - BW - させぼ Ludicolo - JPN.bin		MYSTERY_J	300000		720
+0073 - BW - させぼ Milotic - JPN.bin		MYSTERY_J	300000		720
+0073 - BW - させぼ Walrein - JPN.bin		MYSTERY_J	300000		720
+0074 - BW - させぼ Gardevoir - JPN.bin		MYSTERY_J	300000		720
+0074 - BW - させぼ Metagross - JPN.bin		MYSTERY_J	300000		720
+0074 - BW - させぼ Salamence - JPN.bin		MYSTERY_J	300000		720
+0075 - BW - さが Blaziken - JPN.bin		MYSTERY_J	300000		720
+0075 - BW - さが Sceptile - JPN.bin		MYSTERY_J	300000		720
+0075 - BW - さが Swampert - JPN.bin		MYSTERY_J	300000		720
+0076 - BW - さが Ludicolo - JPN.bin		MYSTERY_J	300000		720
+0076 - BW - さが Milotic - JPN.bin		MYSTERY_J	300000		720
+0076 - BW - さが Walrein - JPN.bin		MYSTERY_J	300000		720
+0077 - BW - さが Gardevoir - JPN.bin		MYSTERY_J	300000		720
+0077 - BW - さが Metagross - JPN.bin		MYSTERY_J	300000		720
+0077 - BW - さが Salamence - JPN.bin		MYSTERY_J	300000		720
+0078 - BW - くまもと Blaziken - JPN.bin		MYSTERY_J	300000		720
+0078 - BW - くまもと Sceptile - JPN.bin		MYSTERY_J	300000		720
+0078 - BW - くまもと Swampert - JPN.bin		MYSTERY_J	300000		720
+0079 - BW - くまもと Ludicolo - JPN.bin		MYSTERY_J	300000		720
+0079 - BW - くまもと Milotic - JPN.bin		MYSTERY_J	300000		720
+0079 - BW - くまもと Walrein - JPN.bin		MYSTERY_J	300000		720
+0080 - BW - くまもと Gardevoir - JPN.bin		MYSTERY_J	300000		720
+0080 - BW - くまもと Metagross - JPN.bin		MYSTERY_J	300000		720
+0080 - BW - くまもと Salamence - JPN.bin		MYSTERY_J	300000		720
+0081 - BW - かごしま Blaziken - JPN.bin		MYSTERY_J	300000		720
+0081 - BW - かごしま Sceptile - JPN.bin		MYSTERY_J	300000		720
+0081 - BW - かごしま Swampert - JPN.bin		MYSTERY_J	300000		720
+0082 - BW - かごしま Ludicolo - JPN.bin		MYSTERY_J	300000		720
+0082 - BW - かごしま Milotic - JPN.bin		MYSTERY_J	300000		720
+0082 - BW - かごしま Walrein - JPN.bin		MYSTERY_J	300000		720
+0083 - BW - かごしま Gardevoir - JPN.bin		MYSTERY_J	300000		720
+0083 - BW - かごしま Metagross - JPN.bin		MYSTERY_J	300000		720
+0083 - BW - かごしま Salamence - JPN.bin		MYSTERY_J	300000		720
+0084 - BW - べっぷ Blaziken - JPN.bin		MYSTERY_J	300000		720
+0084 - BW - べっぷ Sceptile - JPN.bin		MYSTERY_J	300000		720
+0084 - BW - べっぷ Swampert - JPN.bin		MYSTERY_J	300000		720
+0085 - BW - べっぷ Ludicolo - JPN.bin		MYSTERY_J	300000		720
+0085 - BW - べっぷ Milotic - JPN.bin		MYSTERY_J	300000		720
+0085 - BW - べっぷ Walrein - JPN.bin		MYSTERY_J	300000		720
+0086 - BW - べっぷ Gardevoir - JPN.bin		MYSTERY_J	300000		720
+0086 - BW - べっぷ Metagross - JPN.bin		MYSTERY_J	300000		720
+0086 - BW - べっぷ Salamence - JPN.bin		MYSTERY_J	300000		720
+0087 - BW - みやざき Blaziken - JPN.bin		MYSTERY_J	300000		720
+0087 - BW - みやざき Sceptile - JPN.bin		MYSTERY_J	300000		720
+0087 - BW - みやざき Swampert - JPN.bin		MYSTERY_J	300000		720
+0088 - BW - みやざき Ludicolo - JPN.bin		MYSTERY_J	300000		720
+0088 - BW - みやざき Milotic - JPN.bin		MYSTERY_J	300000		720
+0088 - BW - みやざき Walrein - JPN.bin		MYSTERY_J	300000		720
+0089 - BW - みやざき Gardevoir - JPN.bin		MYSTERY_J	300000		720
+0089 - BW - みやざき Metagross - JPN.bin		MYSTERY_J	300000		720
+0089 - BW - みやざき Salamence - JPN.bin		MYSTERY_J	300000		720
+0090 - BW - こくら Blaziken - JPN.bin		MYSTERY_J	300000		720
+0090 - BW - こくら Sceptile - JPN.bin		MYSTERY_J	300000		720
+0090 - BW - こくら Swampert - JPN.bin		MYSTERY_J	300000		720
+0091 - BW - こくら Ludicolo - JPN.bin		MYSTERY_J	300000		720
+0091 - BW - こくら Milotic - JPN.bin		MYSTERY_J	300000		720
+0091 - BW - こくら Walrein - JPN.bin		MYSTERY_J	300000		720
+0092 - BW - こくら Gardevoir - JPN.bin		MYSTERY_J	300000		720
+0092 - BW - こくら Metagross - JPN.bin		MYSTERY_J	300000		720
+0092 - BW - こくら Salamence - JPN.bin		MYSTERY_J	300000		720
+0093 - BW - サーチャー Piplup - JPN.bin		MYSTERY_J	300000		720
+0096 - BW - おまつり Pikachu - JPN.bin		MYSTERY_J	300000		720
+0098 - BWB2W2 - キャンプ Aerodactyl - JPN.bin		MYSTERY_J	f00000		720
+0098 - BWB2W2 - キャンプ Anorith - JPN.bin		MYSTERY_J	f00000		720
+0098 - BWB2W2 - キャンプ Archen - JPN.bin		MYSTERY_J	f00000		720
+0098 - BWB2W2 - キャンプ Cranidos - JPN.bin		MYSTERY_J	f00000		720
+0098 - BWB2W2 - キャンプ Kabuto - JPN.bin		MYSTERY_J	f00000		720
+0098 - BWB2W2 - キャンプ Lileep - JPN.bin		MYSTERY_J	f00000		720
+0098 - BWB2W2 - キャンプ Omanyte - JPN.bin		MYSTERY_J	f00000		720
+0098 - BWB2W2 - キャンプ Shieldon - JPN.bin		MYSTERY_J	f00000		720
+0098 - BWB2W2 - キャンプ Tirtouga - JPN.bin		MYSTERY_J	f00000		720
+0101 - BW - PC Ninetales - JPN.bin		MYSTERY_J	300000		720
+0102 - BW - PC Chandelure - JPN.bin		MYSTERY_J	300000		720
+0103 - BW - PC Whimsicott - JPN.bin		MYSTERY_J	300000		720
+0104 - BW - PC Lucario - JPN.bin		MYSTERY_J	300000		720
+0124 - BWB2W2 - オーサカ Audino - JPN.bin		MYSTERY_J	f00000		720
+0124 - BWB2W2 - サッポロ Audino - JPN.bin		MYSTERY_J	f00000		720
+0124 - BWB2W2 - トウキョー Audino - JPN.bin		MYSTERY_J	f00000		720
+0124 - BWB2W2 - トウホク Audino - JPN.bin		MYSTERY_J	f00000		720
+0124 - BWB2W2 - ナゴヤ Audino - JPN.bin		MYSTERY_J	f00000		720
+0124 - BWB2W2 - フクオカ Audino - JPN.bin		MYSTERY_J	f00000		720
+0124 - BWB2W2 - ヨコハマ Audino - JPN.bin		MYSTERY_J	f00000		720
+0125 - BWB2W2 - トウホク Victini - JPN.bin		MYSTERY_J	f00000		720
+0127 - BWB2W2 - Ｐ２ラボ Genesect - JPN.bin		MYSTERY_J	f00000		720
+0133 - BWB2W2 - マスダ Deoxys - JPN.bin		MYSTERY_J	f00000		720
+0134 - BWB2W2 - ナゴヤ Shiny Magikarp - JPN.bin		MYSTERY_J	f00000		720
+0135 - BWB2W2 - Ｐヒルズ Mewtwo - JPN.bin		MYSTERY_J	f00000		720
+0136 - BWB2W2 - えいがかん Shiny Genesect - JPN.bin		MYSTERY_J	f00000		720
+0137 - BWB2W2 - デコロラ Jirachi - JPN.bin		MYSTERY_J	f00000		720
+0138 - BWB2W2 - キヨ Eevee - JPN.bin		MYSTERY_J	f00000		720
+0139 - BWB2W2 - ＰＣＳ Empoleon - JPN.bin		MYSTERY_J	f00000		720
+0140 - BWB2W2 - ＰＣＴＨ Serperior - JPN.bin		MYSTERY_J	f00000		720
+0141 - BWB2W2 - ＰＣＴ Pikachu - JPN.bin		MYSTERY_J	f00000		720
+0142 - BWB2W2 - ＰＣＹ Torterra - JPN.bin		MYSTERY_J	f00000		720
+0143 - BWB2W2 - ＰＣＮ Infernape - JPN.bin		MYSTERY_J	f00000		720
+0144 - BWB2W2 - ＰＣＯ Emboar - JPN.bin		MYSTERY_J	f00000		720
+0145 - BWB2W2 - ＰＣＦ Samurott - JPN.bin		MYSTERY_J	f00000		720
+0146 - BWB2W2 - ＰＣＦ Samurott - JPN.bin		MYSTERY_J	f00000		720
+0146 - BWB2W2 - ＰＣＮ Infernape - JPN.bin		MYSTERY_J	f00000		720
+0146 - BWB2W2 - ＰＣＯ Emboar - JPN.bin		MYSTERY_J	f00000		720
+0146 - BWB2W2 - ＰＣＳ Empoleon - JPN.bin		MYSTERY_J	f00000		720
+0146 - BWB2W2 - ＰＣＴ Pikachu - JPN.bin		MYSTERY_J	f00000		720
+0146 - BWB2W2 - ＰＣＴＨ Serperior - JPN.bin		MYSTERY_J	f00000		720
+0146 - BWB2W2 - ＰＣＹ Torterra - JPN.bin		MYSTERY_J	f00000		720
+0147 - BWB2W2 - キヨ Eevee - JPN.bin		MYSTERY_J	f00000		720
+0151 - BWB2W2 - たなばた Jirachi - JPN.bin		MYSTERY_J	f00000		720
+0152 - BWB2W2 - イベント Pikachu (HK) - JPN.bin		MYSTERY_J	f00000		720
+0156 - BWB2W2 - アイリス Haxorus - JPN.bin		MYSTERY_J	f00000		720
+0156 - BWB2W2 - アデク Volcarona - JPN.bin		MYSTERY_J	f00000		720
+0156 - BWB2W2 - グリーン Pidgeot - JPN.bin		MYSTERY_J	f00000		720
+0156 - BWB2W2 - シロナ Spiritomb - JPN.bin		MYSTERY_J	f00000		720
+0156 - BWB2W2 - ダイゴ Metagross - JPN.bin		MYSTERY_J	f00000		720
+0156 - BWB2W2 - ミクリ Milotic - JPN.bin		MYSTERY_J	f00000		720
+0156 - BWB2W2 - ワタル Dragonite - JPN.bin		MYSTERY_J	f00000		720
+0157 - BWB2W2 - アイリス Haxorus - JPN.bin		MYSTERY_J	f00000		720
+0157 - BWB2W2 - アデク Volcarona - JPN.bin		MYSTERY_J	f00000		720
+0157 - BWB2W2 - グリーン Pidgeot - JPN.bin		MYSTERY_J	f00000		720
+0157 - BWB2W2 - シロナ Spiritomb - JPN.bin		MYSTERY_J	f00000		720
+0157 - BWB2W2 - ダイゴ Metagross - JPN.bin		MYSTERY_J	f00000		720
+0157 - BWB2W2 - ミクリ Milotic - JPN.bin		MYSTERY_J	f00000		720
+0157 - BWB2W2 - ワタル Dragonite - JPN.bin		MYSTERY_J	f00000		720
+0158 - BWB2W2 - アイリス Axew - JPN.bin		MYSTERY_J	f00000		720
+0158 - BWB2W2 - オーキド Rotom - JPN.bin		MYSTERY_J	f00000		720
+0158 - BWB2W2 - サトシ Pikachu - JPN.bin		MYSTERY_J	f00000		720
+0158 - BWB2W2 - デント Pansage - JPN.bin		MYSTERY_J	f00000		720
+0159 - BWB2W2 - アイリス Axew - JPN.bin		MYSTERY_J	f00000		720
+0159 - BWB2W2 - オーキド Rotom - JPN.bin		MYSTERY_J	f00000		720
+0159 - BWB2W2 - サトシ Pikachu - JPN.bin		MYSTERY_J	f00000		720
+0159 - BWB2W2 - デント Pansage - JPN.bin		MYSTERY_J	f00000		720
+0160 - BWB2W2 - アイリス Axew - JPN.bin		MYSTERY_J	f00000		720
+0160 - BWB2W2 - オーキド Rotom - JPN.bin		MYSTERY_J	f00000		720
+0160 - BWB2W2 - サトシ Pikachu - JPN.bin		MYSTERY_J	f00000		720
+0160 - BWB2W2 - デント Pansage - JPN.bin		MYSTERY_J	f00000		720
+0161 - BWB2W2 - アイリス Axew - JPN.bin		MYSTERY_J	f00000		720
+0161 - BWB2W2 - オーキド Rotom - JPN.bin		MYSTERY_J	f00000		720
+0161 - BWB2W2 - サトシ Pikachu - JPN.bin		MYSTERY_J	f00000		720
+0161 - BWB2W2 - デント Pansage - JPN.bin		MYSTERY_J	f00000		720
+0165 - BWB2W2 - しょちょう Sableye - JPN.bin		MYSTERY_J	f00000		720
+0166 - BWB2W2 - ヤマモト Politoed - JPN.bin		MYSTERY_J	f00000		720
+0167 - BWB2W2 - ヤマモト Kingdra - JPN.bin		MYSTERY_J	f00000		720
+2046 - BW - Item Liberty Pass - JPN.bin		MYSTERY_J	300000		720

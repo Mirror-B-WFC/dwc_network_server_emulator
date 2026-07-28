@@ -1,110 +1,110 @@
-0002 - BW - EST2011 Karrablast - ITA.bin	720
-0002 - BW - ÉTÉ2011 Karrablast - FRE.bin	720
-0002 - BW - SMR2011 Karrablast - ENG.bin	720
-0002 - BW - SMR2011 Karrablast - GER.bin	720
-0002 - BW - VER2011 Karrablast - SPA.bin	720
-0003 - BW - EST2011 Shelmet - ITA.bin	720
-0003 - BW - ÉTÉ2011 Shelmet - FRE.bin	720
-0003 - BW - SMR2011 Shelmet - ENG.bin	720
-0003 - BW - SMR2011 Shelmet - GER.bin	720
-0003 - BW - VER2011 Shelmet - SPA.bin	720
-0028 - BW - 2011HVR Darkrai - FRE.bin	720
-0028 - BW - 2011INV Darkrai - ITA.bin	720
-0028 - BW - 2011INV Darkrai - SPA.bin	720
-0028 - BW - 2011WIN Darkrai - ENG.bin	720
-0028 - BW - 2011WIN Darkrai - GER.bin	720
-0028 - BW - 2012MAY Darkrai - ENG.bin	720
-0029 - BW - (Trainer) Axew Egg - ENG.bin	720
-0029 - BW - (Trainer) Pansage Egg - ENG.bin	720
-0029 - BW - (Trainer) Pidove Egg - ENG.bin	720
-0030 - BW - EST2011 Zoroark - ITA.bin	720
-0030 - BW - ÉTÉ2011 Zoroark - FRE.bin	720
-0030 - BW - Event11 Zoroark - ENG.bin	720
-0030 - BW - ÉVNMT11 Zoroark - FRE.bin	720
-0030 - BW - SMR2011 Zoroark - ENG.bin	720
-0030 - BW - SMR2011 Zoroark - GER.bin	720
-0030 - BW - VER2011 Zoroark - SPA.bin	720
-0032 - BW - FILM14 Victini - FRE.bin	720
-0032 - BW - FILM14 Victini - GER.bin	720
-0032 - BW - FILM14 Victini - ITA.bin	720
-0032 - BW - Movie14 Victini - ENG.bin	720
-0032 - BW - PELI14 Victini - SPA.bin	720
-0033 - B - FRÜ2012 Zekrom - GER.bin	720
-0033 - B - PRI2012 Zekrom - FRE.bin	720
-0033 - B - PRI2012 Zekrom - ITA.bin	720
-0033 - B - PRI2012 Zekrom - SPA.bin	720
-0033 - B - SPR2012 Zekrom - ENG.bin	720
-0037 - BW - WORLD11 Scrafty - ENG.bin	720
-0037 - BW - WORLD11 Scrafty - FRE.bin	720
-0037 - BW - WORLD11 Scrafty - GER.bin	720
-0037 - BW - WORLD11 Scrafty - ITA.bin	720
-0037 - BW - WORLD11 Scrafty - SPA.bin	720
-0048 - BW - FEB2012 Mewtwo - ENG.bin	720
-0048 - BW - FRÜ2012 Mewtwo - GER.bin	720
-0048 - BW - PRI2012 Mewtwo - FRE.bin	720
-0048 - BW - PRI2012 Mewtwo - ITA.bin	720
-0048 - BW - PRI2012 Mewtwo - SPA.bin	720
-0061 - BW - VGC12 Larvitar - ENG.bin	720
-0061 - BW - VGC12 Larvitar - FRE.bin	720
-0061 - BW - VGC12 Larvitar - GER.bin	720
-0061 - BW - VGC12 Larvitar - ITA.bin	720
-0061 - BW - VGC12 Larvitar - SPA.bin	720
-0069 - BW - EST2012 Keldeo - ITA.bin	720
-0069 - BW - ÉTÉ2012 Keldeo - FRE.bin	720
-0069 - BW - SMR2012 Keldeo - ENG.bin	720
-0069 - BW - SMR2012 Keldeo - GER.bin	720
-0069 - BW - VER2012 Keldeo - SPA.bin	720
-0071 - BW - EST2012 Pikachu - ITA.bin	720
-0071 - BW - ÉTÉ2012 Pikachu - FRE.bin	720
-0071 - BW - SMR2012 Pikachu - ENG.bin	720
-0071 - BW - SMR2012 Pikachu - GER.bin	720
-0071 - BW - VER2012 Pikachu - SPA.bin	720
-0096 - BW - Fes Pikachu - ENG.bin	720
-0100 - BW - WORLD12 Pikachu - ENG.bin	720
-0100 - BW - WORLD12 Pikachu - FRE.bin	720
-0100 - BW - WORLD12 Pikachu - GER.bin	720
-0100 - BW - WORLD12 Pikachu - ITA.bin	720
-0100 - BW - WORLD12 Pikachu - SPA.bin	720
-0100 - BW - WORLD12 Pikachu (C) - SPA.bin	720
-0120 - BWB2W2 - ROCKET Meowth - ITA.bin	720
-0129 - BWB2W2 - FRÜ2013 Meloetta - GER.bin	720
-0129 - BWB2W2 - PRI2013 Meloetta - FRE.bin	720
-0129 - BWB2W2 - PRI2013 Meloetta - ITA.bin	720
-0129 - BWB2W2 - PRI2013 Meloetta - SPA.bin	720
-0129 - BWB2W2 - SPR2013 Meloetta - ENG.bin	720
-0130 - BWB2W2 - Abram Cloyster - ENG.bin	720
-0131 - BWB2W2 - Toler Ludicolo - ENG.bin	720
-0132 - BWB2W2 - Ray Metagross - ENG.bin	720
-0132 - BWB2W2 - Ray Metagross - FRE.bin	720
-0132 - BWB2W2 - Ray Metagross - GER.bin	720
-0132 - BWB2W2 - Ray Metagross - ITA.bin	720
-0132 - BWB2W2 - Ray Metagross - SPA.bin	720
-0135 - BWB2W2 - Ｐヒルズ Mewtwo - ENG.bin	720
-0148 - BWB2W2 - (08193) SUM2013 Shiny Dialga - ENG.bin	720
-0148 - BWB2W2 - (08303) SUM2013 Shiny Dialga - ENG.bin	720
-0148 - BWB2W2 - EST2013 Shiny Dialga - ITA.bin	720
-0148 - BWB2W2 - ÉTÉ2013 Shiny Dialga - FRE.bin	720
-0148 - BWB2W2 - SOM2013 Shiny Dialga - GER.bin	720
-0148 - BWB2W2 - VER2013 Shiny Dialga - SPA.bin	720
-0149 - BWB2W2 - (09093) SUM2013 Shiny Palkia - ENG.bin	720
-0149 - BWB2W2 - (09133) SUM2013 Shiny Palkia - ENG.bin	720
-0149 - BWB2W2 - EST2013 Shiny Palkia - ITA.bin	720
-0149 - BWB2W2 - ÉTÉ2013 Shiny Palkia - FRE.bin	720
-0149 - BWB2W2 - SOM2013 Shiny Palkia - GER.bin	720
-0149 - BWB2W2 - VER2013 Shiny Palkia - SPA.bin	720
-0150 - BWB2W2 - (09273) SUM2013 Shiny Giratina - ENG.bin	720
-0150 - BWB2W2 - (09303) SUM2013 Shiny Giratina - ENG.bin	720
-0150 - BWB2W2 - EST2013 Shiny Giratina - ITA.bin	720
-0150 - BWB2W2 - ÉTÉ2013 Shiny Giratina - FRE.bin	720
-0150 - BWB2W2 - SOM2013 Shiny Giratina - GER.bin	720
-0150 - BWB2W2 - VER2013 Shiny Giratina - SPA.bin	720
-0155 - BWB2W2 - WORLD13 Smeargle - ENG.bin	720
-0155 - BWB2W2 - WORLD13 Smeargle - FRE.bin	720
-0155 - BWB2W2 - WORLD13 Smeargle - GER.bin	720
-0155 - BWB2W2 - WORLD13 Smeargle - ITA.bin	720
-0155 - BWB2W2 - WORLD13 Smeargle - SPA.bin	720
-2046 - BW - Item Liberty Pass - ENG.bin	720
-2046 - BW - Item Liberty Pass - FRE.bin	720
-2046 - BW - Item Liberty Pass - GER.bin	720
-2046 - BW - Item Liberty Pass - ITA.bin	720
-2046 - BW - Item Liberty Pass - SPA.bin	720
+0002 - BW - EST2011 Karrablast - ITA.bin		MYSTERY_I	300000		720
+0002 - BW - ÉTÉ2011 Karrablast - FRE.bin		MYSTERY_F	300000		720
+0002 - BW - SMR2011 Karrablast - ENG.bin		MYSTERY_E	300000		720
+0002 - BW - SMR2011 Karrablast - GER.bin		MYSTERY_G	300000		720
+0002 - BW - VER2011 Karrablast - SPA.bin		MYSTERY_S	300000		720
+0003 - BW - EST2011 Shelmet - ITA.bin		MYSTERY_I	300000		720
+0003 - BW - ÉTÉ2011 Shelmet - FRE.bin		MYSTERY_F	300000		720
+0003 - BW - SMR2011 Shelmet - ENG.bin		MYSTERY_E	300000		720
+0003 - BW - SMR2011 Shelmet - GER.bin		MYSTERY_G	300000		720
+0003 - BW - VER2011 Shelmet - SPA.bin		MYSTERY_S	300000		720
+0028 - BW - 2011HVR Darkrai - FRE.bin		MYSTERY_F	300000		720
+0028 - BW - 2011INV Darkrai - ITA.bin		MYSTERY_I	300000		720
+0028 - BW - 2011INV Darkrai - SPA.bin		MYSTERY_S	300000		720
+0028 - BW - 2011WIN Darkrai - ENG.bin		MYSTERY_E	300000		720
+0028 - BW - 2011WIN Darkrai - GER.bin		MYSTERY_G	300000		720
+0028 - BW - 2012MAY Darkrai - ENG.bin		MYSTERY_E	300000		720
+0029 - BW - (Trainer) Axew Egg - ENG.bin		MYSTERY_E	300000		720
+0029 - BW - (Trainer) Pansage Egg - ENG.bin		MYSTERY_E	300000		720
+0029 - BW - (Trainer) Pidove Egg - ENG.bin		MYSTERY_E	300000		720
+0030 - BW - EST2011 Zoroark - ITA.bin		MYSTERY_I	300000		720
+0030 - BW - ÉTÉ2011 Zoroark - FRE.bin		MYSTERY_F	300000		720
+0030 - BW - Event11 Zoroark - ENG.bin		MYSTERY_E	300000		720
+0030 - BW - ÉVNMT11 Zoroark - FRE.bin		MYSTERY_F	300000		720
+0030 - BW - SMR2011 Zoroark - ENG.bin		MYSTERY_E	300000		720
+0030 - BW - SMR2011 Zoroark - GER.bin		MYSTERY_G	300000		720
+0030 - BW - VER2011 Zoroark - SPA.bin		MYSTERY_S	300000		720
+0032 - BW - FILM14 Victini - FRE.bin		MYSTERY_F	300000		720
+0032 - BW - FILM14 Victini - GER.bin		MYSTERY_G	300000		720
+0032 - BW - FILM14 Victini - ITA.bin		MYSTERY_I	300000		720
+0032 - BW - Movie14 Victini - ENG.bin		MYSTERY_E	300000		720
+0032 - BW - PELI14 Victini - SPA.bin		MYSTERY_S	300000		720
+0033 - B - FRÜ2012 Zekrom - GER.bin		MYSTERY_G	200000		720
+0033 - B - PRI2012 Zekrom - FRE.bin		MYSTERY_F	200000		720
+0033 - B - PRI2012 Zekrom - ITA.bin		MYSTERY_I	200000		720
+0033 - B - PRI2012 Zekrom - SPA.bin		MYSTERY_S	200000		720
+0033 - B - SPR2012 Zekrom - ENG.bin		MYSTERY_E	200000		720
+0037 - BW - WORLD11 Scrafty - ENG.bin		MYSTERY_E	300000		720
+0037 - BW - WORLD11 Scrafty - FRE.bin		MYSTERY_F	300000		720
+0037 - BW - WORLD11 Scrafty - GER.bin		MYSTERY_G	300000		720
+0037 - BW - WORLD11 Scrafty - ITA.bin		MYSTERY_I	300000		720
+0037 - BW - WORLD11 Scrafty - SPA.bin		MYSTERY_S	300000		720
+0048 - BW - FEB2012 Mewtwo - ENG.bin		MYSTERY_E	300000		720
+0048 - BW - FRÜ2012 Mewtwo - GER.bin		MYSTERY_G	300000		720
+0048 - BW - PRI2012 Mewtwo - FRE.bin		MYSTERY_F	300000		720
+0048 - BW - PRI2012 Mewtwo - ITA.bin		MYSTERY_I	300000		720
+0048 - BW - PRI2012 Mewtwo - SPA.bin		MYSTERY_S	300000		720
+0061 - BW - VGC12 Larvitar - ENG.bin		MYSTERY_E	300000		720
+0061 - BW - VGC12 Larvitar - FRE.bin		MYSTERY_F	300000		720
+0061 - BW - VGC12 Larvitar - GER.bin		MYSTERY_G	300000		720
+0061 - BW - VGC12 Larvitar - ITA.bin		MYSTERY_I	300000		720
+0061 - BW - VGC12 Larvitar - SPA.bin		MYSTERY_S	300000		720
+0069 - BW - EST2012 Keldeo - ITA.bin		MYSTERY_I	300000		720
+0069 - BW - ÉTÉ2012 Keldeo - FRE.bin		MYSTERY_F	300000		720
+0069 - BW - SMR2012 Keldeo - ENG.bin		MYSTERY_E	300000		720
+0069 - BW - SMR2012 Keldeo - GER.bin		MYSTERY_G	300000		720
+0069 - BW - VER2012 Keldeo - SPA.bin		MYSTERY_S	300000		720
+0071 - BW - EST2012 Pikachu - ITA.bin		MYSTERY_I	300000		720
+0071 - BW - ÉTÉ2012 Pikachu - FRE.bin		MYSTERY_F	300000		720
+0071 - BW - SMR2012 Pikachu - ENG.bin		MYSTERY_E	300000		720
+0071 - BW - SMR2012 Pikachu - GER.bin		MYSTERY_G	300000		720
+0071 - BW - VER2012 Pikachu - SPA.bin		MYSTERY_S	300000		720
+0096 - BW - Fes Pikachu - ENG.bin		MYSTERY_E	300000		720
+0100 - BW - WORLD12 Pikachu - ENG.bin		MYSTERY_E	300000		720
+0100 - BW - WORLD12 Pikachu - FRE.bin		MYSTERY_F	300000		720
+0100 - BW - WORLD12 Pikachu - GER.bin		MYSTERY_G	300000		720
+0100 - BW - WORLD12 Pikachu - ITA.bin		MYSTERY_I	300000		720
+0100 - BW - WORLD12 Pikachu - SPA.bin		MYSTERY_S	300000		720
+0100 - BW - WORLD12 Pikachu (C) - SPA.bin		MYSTERY_S	300000		720
+0120 - BWB2W2 - ROCKET Meowth - ITA.bin		MYSTERY_I	f00000		720
+0129 - BWB2W2 - FRÜ2013 Meloetta - GER.bin		MYSTERY_G	f00000		720
+0129 - BWB2W2 - PRI2013 Meloetta - FRE.bin		MYSTERY_F	f00000		720
+0129 - BWB2W2 - PRI2013 Meloetta - ITA.bin		MYSTERY_I	f00000		720
+0129 - BWB2W2 - PRI2013 Meloetta - SPA.bin		MYSTERY_S	f00000		720
+0129 - BWB2W2 - SPR2013 Meloetta - ENG.bin		MYSTERY_E	f00000		720
+0130 - BWB2W2 - Abram Cloyster - ENG.bin		MYSTERY_E	f00000		720
+0131 - BWB2W2 - Toler Ludicolo - ENG.bin		MYSTERY_E	f00000		720
+0132 - BWB2W2 - Ray Metagross - ENG.bin		MYSTERY_E	f00000		720
+0132 - BWB2W2 - Ray Metagross - FRE.bin		MYSTERY_F	f00000		720
+0132 - BWB2W2 - Ray Metagross - GER.bin		MYSTERY_G	f00000		720
+0132 - BWB2W2 - Ray Metagross - ITA.bin		MYSTERY_I	f00000		720
+0132 - BWB2W2 - Ray Metagross - SPA.bin		MYSTERY_S	f00000		720
+0135 - BWB2W2 - Ｐヒルズ Mewtwo - ENG.bin		MYSTERY_E	f00000		720
+0148 - BWB2W2 - (08193) SUM2013 Shiny Dialga - ENG.bin		MYSTERY_E	f00000		720
+0148 - BWB2W2 - (08303) SUM2013 Shiny Dialga - ENG.bin		MYSTERY_E	f00000		720
+0148 - BWB2W2 - EST2013 Shiny Dialga - ITA.bin		MYSTERY_I	f00000		720
+0148 - BWB2W2 - ÉTÉ2013 Shiny Dialga - FRE.bin		MYSTERY_F	f00000		720
+0148 - BWB2W2 - SOM2013 Shiny Dialga - GER.bin		MYSTERY_G	f00000		720
+0148 - BWB2W2 - VER2013 Shiny Dialga - SPA.bin		MYSTERY_S	f00000		720
+0149 - BWB2W2 - (09093) SUM2013 Shiny Palkia - ENG.bin		MYSTERY_E	f00000		720
+0149 - BWB2W2 - (09133) SUM2013 Shiny Palkia - ENG.bin		MYSTERY_E	f00000		720
+0149 - BWB2W2 - EST2013 Shiny Palkia - ITA.bin		MYSTERY_I	f00000		720
+0149 - BWB2W2 - ÉTÉ2013 Shiny Palkia - FRE.bin		MYSTERY_F	f00000		720
+0149 - BWB2W2 - SOM2013 Shiny Palkia - GER.bin		MYSTERY_G	f00000		720
+0149 - BWB2W2 - VER2013 Shiny Palkia - SPA.bin		MYSTERY_S	f00000		720
+0150 - BWB2W2 - (09273) SUM2013 Shiny Giratina - ENG.bin		MYSTERY_E	f00000		720
+0150 - BWB2W2 - (09303) SUM2013 Shiny Giratina - ENG.bin		MYSTERY_E	f00000		720
+0150 - BWB2W2 - EST2013 Shiny Giratina - ITA.bin		MYSTERY_I	f00000		720
+0150 - BWB2W2 - ÉTÉ2013 Shiny Giratina - FRE.bin		MYSTERY_F	f00000		720
+0150 - BWB2W2 - SOM2013 Shiny Giratina - GER.bin		MYSTERY_G	f00000		720
+0150 - BWB2W2 - VER2013 Shiny Giratina - SPA.bin		MYSTERY_S	f00000		720
+0155 - BWB2W2 - WORLD13 Smeargle - ENG.bin		MYSTERY_E	f00000		720
+0155 - BWB2W2 - WORLD13 Smeargle - FRE.bin		MYSTERY_F	f00000		720
+0155 - BWB2W2 - WORLD13 Smeargle - GER.bin		MYSTERY_G	f00000		720
+0155 - BWB2W2 - WORLD13 Smeargle - ITA.bin		MYSTERY_I	f00000		720
+0155 - BWB2W2 - WORLD13 Smeargle - SPA.bin		MYSTERY_S	f00000		720
+2046 - BW - Item Liberty Pass - ENG.bin		MYSTERY_E	300000		720
+2046 - BW - Item Liberty Pass - FRE.bin		MYSTERY_F	300000		720
+2046 - BW - Item Liberty Pass - GER.bin		MYSTERY_G	300000		720
+2046 - BW - Item Liberty Pass - ITA.bin		MYSTERY_I	300000		720
+2046 - BW - Item Liberty Pass - SPA.bin		MYSTERY_S	300000		720

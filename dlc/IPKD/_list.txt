@@ -1,11 +1,11 @@
-024 - DPPtHGSS - Night Sky Jirachi - GER.myg	936
-048 - HGSS - Item Yellow Forest Course - GER.myg	936
-051 - HGSS - Item Winner's Path Course - GER.myg	936
-052 - HGSS - VGC 2010 Eevee - GER.myg	936
-053 - HGSS - Anniversary Mew - GER.myg	936
-054 - HGSS - Item Enigma Stone - GER.myg	936
-059 - DPPtHGSS - Winter Raikou - GER.myg	936
-060 - DPPtHGSS - Winter Entei - GER.myg	936
-061 - DPPtHGSS - Winter Suicune - GER.myg	936
-062 - DPPtHGSS - Winter Celebi - GER.myg	936
---- - DPPtHGSS - NZone Pikachu (P) - GER.myg	936
+024 - DPPtHGSS - Night Sky Jirachi - GER.myg					936
+048 - HGSS - Item Yellow Forest Course - GER.myg					936
+051 - HGSS - Item Winner's Path Course - GER.myg					936
+052 - HGSS - VGC 2010 Eevee - GER.myg					936
+053 - HGSS - Anniversary Mew - GER.myg					936
+054 - HGSS - Item Enigma Stone - GER.myg					936
+059 - DPPtHGSS - Winter Raikou - GER.myg					936
+060 - DPPtHGSS - Winter Entei - GER.myg					936
+061 - DPPtHGSS - Winter Suicune - GER.myg					936
+062 - DPPtHGSS - Winter Celebi - GER.myg					936
+--- - DPPtHGSS - NZone Pikachu (P) - GER.myg					936

@@ -1,11 +1,11 @@
-017 - Pt - Item Secret Key - FRE.myg	936
-018 - Pt - Item Member Card - FRE.myg	936
-019 - DPPt - Movie Arceus - FRE.myg	936
-020 - Pt - Item Oak's Letter - FRE.myg	936
-021 - DPPt - Pikachu-Colored Pichu - FRE.myg	936
-024 - DPPtHGSS - Night Sky Jirachi - FRE.myg	936
-059 - DPPtHGSS - Winter Raikou - FRE.myg	936
-060 - DPPtHGSS - Winter Entei - FRE.myg	936
-061 - DPPtHGSS - Winter Suicune - FRE.myg	936
-062 - DPPtHGSS - Winter Celebi - FRE.myg	936
-180 - DPPt - Movie Regigigas - FRE.myg	936
+017 - Pt - Item Secret Key - FRE.myg					936
+018 - Pt - Item Member Card - FRE.myg					936
+019 - DPPt - Movie Arceus - FRE.myg					936
+020 - Pt - Item Oak's Letter - FRE.myg					936
+021 - DPPt - Pikachu-Colored Pichu - FRE.myg					936
+024 - DPPtHGSS - Night Sky Jirachi - FRE.myg					936
+059 - DPPtHGSS - Winter Raikou - FRE.myg					936
+060 - DPPtHGSS - Winter Entei - FRE.myg					936
+061 - DPPtHGSS - Winter Suicune - FRE.myg					936
+062 - DPPtHGSS - Winter Celebi - FRE.myg					936
+180 - DPPt - Movie Regigigas - FRE.myg					936

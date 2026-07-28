@@ -1,30 +1,30 @@
-029 - DPHG - Bday Charmander 2008 - JPN.myg	936
-033 - DPPtHGSS - PC Yokohama Pikachu - JPN.myg	936
-034 - DPPtHGSS - Bday Pikachu 2008 - JPN.myg	936
-040 - DPPtHGSS - Eevee Collection - JPN.myg	936
-041 - DPPtHGSS - Onemuri Pikachu - JPN.myg	936
-043 - DPPtHGSS - Osaka Meowth - JPN.myg	936
-047 - DPPtHGSS - Bday Charmander 2009 - JPN.myg	936
-048 - HGSS - Item Yellow Forest Course - JPN.myg	936
-049 - DPPtHGSS - Bday Chimchar 2009 - JPN.myg	936
-050 - DPHGSS - Kyoto Pikachu - JPN.myg	936
-051 - HGSS - Item Winner's Path Course - JPN.myg	936
-052 - HGSS - VGC 2010 Eevee - JPN.myg	936
-053 - DPPtHGSS - Anniversary Mew - JPN.myg	936
-053 - HGSS - Anniversary Mew - JPN.myg	936
-054 - HGSS - Item Enigma Stone - JPN.myg	936
-055 - HGSS - Item Shopping Course - JPN.myg	936
-056 - DPPtHGSS - Ario Pikachu - JPN.myg	936
-057 - DPPtHGSS - Bday Pikachu 2009 - JPN.myg	936
-058 - HGSS - Item Rally Course - JPN.myg	936
-059 - DPPtHGSS - Crown Raikou - JPN.myg	936
-060 - DPPtHGSS - Crown Entei - JPN.myg	936
-061 - DPPtHGSS - Crown Suicune - JPN.myg	936
-062 - DPPtHGSS - Movie 2010 Celebi - JPN.myg	936
-063 - DPPtHGSS - Goon's Scizor - JPN.myg	936
-064 - HGSS - Item Amity Field Course - JPN.myg	936
-065 - DPPtHGSS - Satoshi's Pikachu - JPN.myg	936
-066 - DPPtHGSS - NZ Manaphy - JPN.myg	936
-067 - DPPtHGSS - Bday Charmander 2010 - JPN.myg	936
-069 - DPPtHGSS - 7-Eleven Pikachu - JPN.myg	936
-070 - DPPtHGSS - Bday Chimchar 2010 - JPN.myg	936
+029 - DPHG - Bday Charmander 2008 - JPN.myg					936
+033 - DPPtHGSS - PC Yokohama Pikachu - JPN.myg					936
+034 - DPPtHGSS - Bday Pikachu 2008 - JPN.myg					936
+040 - DPPtHGSS - Eevee Collection - JPN.myg					936
+041 - DPPtHGSS - Onemuri Pikachu - JPN.myg					936
+043 - DPPtHGSS - Osaka Meowth - JPN.myg					936
+047 - DPPtHGSS - Bday Charmander 2009 - JPN.myg					936
+048 - HGSS - Item Yellow Forest Course - JPN.myg					936
+049 - DPPtHGSS - Bday Chimchar 2009 - JPN.myg					936
+050 - DPHGSS - Kyoto Pikachu - JPN.myg					936
+051 - HGSS - Item Winner's Path Course - JPN.myg					936
+052 - HGSS - VGC 2010 Eevee - JPN.myg					936
+053 - DPPtHGSS - Anniversary Mew - JPN.myg					936
+053 - HGSS - Anniversary Mew - JPN.myg					936
+054 - HGSS - Item Enigma Stone - JPN.myg					936
+055 - HGSS - Item Shopping Course - JPN.myg					936
+056 - DPPtHGSS - Ario Pikachu - JPN.myg					936
+057 - DPPtHGSS - Bday Pikachu 2009 - JPN.myg					936
+058 - HGSS - Item Rally Course - JPN.myg					936
+059 - DPPtHGSS - Crown Raikou - JPN.myg					936
+060 - DPPtHGSS - Crown Entei - JPN.myg					936
+061 - DPPtHGSS - Crown Suicune - JPN.myg					936
+062 - DPPtHGSS - Movie 2010 Celebi - JPN.myg					936
+063 - DPPtHGSS - Goon's Scizor - JPN.myg					936
+064 - HGSS - Item Amity Field Course - JPN.myg					936
+065 - DPPtHGSS - Satoshi's Pikachu - JPN.myg					936
+066 - DPPtHGSS - NZ Manaphy - JPN.myg					936
+067 - DPPtHGSS - Bday Charmander 2010 - JPN.myg					936
+069 - DPPtHGSS - 7-Eleven Pikachu - JPN.myg					936
+070 - DPPtHGSS - Bday Chimchar 2010 - JPN.myg					936

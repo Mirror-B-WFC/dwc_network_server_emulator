@@ -1,56 +1,56 @@
-001 - DPPtSS - Concert Chatot - JPN.myg	936
-002 - PPt - Festa Electabuzz - JPN.myg	936
-004 - DP - Mizunotami Manaphy - JPN.myg	936
-005 - DP - Sunday Tropius - JPN.myg	936
-007 - DP - Movie 2007 Darkrai - JPN.myg	936
-008 - DP - Sunday Whiscash - JPN.myg	936
-009 - DP - Pal City Manaphy - JPN.myg	936
-009 - DP - Pal City Manaphy (Hardy) - JPN.myg	936
-010 - DP - Pal City Mew (Fukuoka) - JPN.myg	936
-010 - DP - Pal City Mew (Makuhari) - JPN.myg	936
-010 - DP - Pal City Mew (Nagoya) - JPN.myg	936
-010 - DP - Pal City Mew (Osaka) - JPN.myg	936
-010 - DP - Pal City Mew (Sapporo) - JPN.myg	936
-010 - DP - Pal City Mew (Yokohama) - JPN.myg	936
-011 - DP - Pal City Lucario - JPN.myg	936
-012 - DP - Item Matchup Checker - JPN.myg	936
-013 - DP - Movie 2007 Deoxys - JPN.myg	936
-014 - DP - Tanabata Jirachi 2007 (Ganlon Berry) - JPN.myg	936
-014 - DP - Tanabata Jirachi 2007 (Salac Berry) - JPN.myg	936
-015 - DP - Bday Charmander 2007 - JPN.myg	936
-016 - DP - Sunday Octillery - JPN.myg	936
-017 - DP - Strongest Electivire - JPN.myg	936
-018 - DP - Strongest Magmortar - JPN.myg	936
-019 - DP - Strongest Milotic - JPN.myg	936
-020 - DP - Strongest Dragonite - JPN.myg	936
-021 - DP - Strongest Salamence - JPN.myg	936
-024 - DP - Movie 2008 Regigigas - JPN.myg	936
-025 - DP - Movie 2008 Shaymin - JPN.myg	936
-028 - DP - McDonald's Pikachu - JPN.myg	936
-029 - DPHG - Bday Charmander 2008 - JPN.myg	936
-030 - DPPt - Movie 2009 Arceus - JPN.myg	936
-032 - DP - Tanabata Jirachi 2008 - JPN.myg	936
-033 - DPPtHGSS - PC Yokohama Pikachu - JPN.myg	936
-034 - DPPtHGSS - Bday Pikachu 2008 - JPN.myg	936
-040 - DPPtHGSS - Eevee Collection - JPN.myg	936
-041 - DPPtHGSS - Onemuri Pikachu - JPN.myg	936
-042 - DPPt - Pikachu-Colored Pichu - JPN.myg	936
-043 - DPPtHGSS - Osaka Meowth - JPN.myg	936
-045 - DPPt - Item Lucario Doll - JPN.myg	936
-046 - DPPt - NZ Jirachi - JPN.myg	936
-047 - DPPtHGSS - Bday Charmander 2009 - JPN.myg	936
-049 - DPPtHGSS - Bday Chimchar 2009 - JPN.myg	936
-050 - DPHGSS - Kyoto Pikachu - JPN.myg	936
-053 - DPPtHGSS - Anniversary Mew - JPN.myg	936
-056 - DPPtHGSS - Ario Pikachu - JPN.myg	936
-057 - DPPtHGSS - Bday Pikachu 2009 - JPN.myg	936
-059 - DPPtHGSS - Crown Raikou - JPN.myg	936
-060 - DPPtHGSS - Crown Entei - JPN.myg	936
-061 - DPPtHGSS - Crown Suicune - JPN.myg	936
-062 - DPPtHGSS - Movie 2010 Celebi - JPN.myg	936
-063 - DPPtHGSS - Goon's Scizor - JPN.myg	936
-065 - DPPtHGSS - Satoshi's Pikachu - JPN.myg	936
-066 - DPPtHGSS - NZ Manaphy - JPN.myg	936
-067 - DPPtHGSS - Bday Charmander 2010 - JPN.myg	936
-069 - DPPtHGSS - 7-Eleven Pikachu - JPN.myg	936
-070 - DPPtHGSS - Bday Chimchar 2010 - JPN.myg	936
+001 - DPPtSS - Concert Chatot - JPN.myg					936
+002 - PPt - Festa Electabuzz - JPN.myg					936
+004 - DP - Mizunotami Manaphy - JPN.myg					936
+005 - DP - Sunday Tropius - JPN.myg					936
+007 - DP - Movie 2007 Darkrai - JPN.myg					936
+008 - DP - Sunday Whiscash - JPN.myg					936
+009 - DP - Pal City Manaphy - JPN.myg					936
+009 - DP - Pal City Manaphy (Hardy) - JPN.myg					936
+010 - DP - Pal City Mew (Fukuoka) - JPN.myg					936
+010 - DP - Pal City Mew (Makuhari) - JPN.myg					936
+010 - DP - Pal City Mew (Nagoya) - JPN.myg					936
+010 - DP - Pal City Mew (Osaka) - JPN.myg					936
+010 - DP - Pal City Mew (Sapporo) - JPN.myg					936
+010 - DP - Pal City Mew (Yokohama) - JPN.myg					936
+011 - DP - Pal City Lucario - JPN.myg					936
+012 - DP - Item Matchup Checker - JPN.myg					936
+013 - DP - Movie 2007 Deoxys - JPN.myg					936
+014 - DP - Tanabata Jirachi 2007 (Ganlon Berry) - JPN.myg					936
+014 - DP - Tanabata Jirachi 2007 (Salac Berry) - JPN.myg					936
+015 - DP - Bday Charmander 2007 - JPN.myg					936
+016 - DP - Sunday Octillery - JPN.myg					936
+017 - DP - Strongest Electivire - JPN.myg					936
+018 - DP - Strongest Magmortar - JPN.myg					936
+019 - DP - Strongest Milotic - JPN.myg					936
+020 - DP - Strongest Dragonite - JPN.myg					936
+021 - DP - Strongest Salamence - JPN.myg					936
+024 - DP - Movie 2008 Regigigas - JPN.myg					936
+025 - DP - Movie 2008 Shaymin - JPN.myg					936
+028 - DP - McDonald's Pikachu - JPN.myg					936
+029 - DPHG - Bday Charmander 2008 - JPN.myg					936
+030 - DPPt - Movie 2009 Arceus - JPN.myg					936
+032 - DP - Tanabata Jirachi 2008 - JPN.myg					936
+033 - DPPtHGSS - PC Yokohama Pikachu - JPN.myg					936
+034 - DPPtHGSS - Bday Pikachu 2008 - JPN.myg					936
+040 - DPPtHGSS - Eevee Collection - JPN.myg					936
+041 - DPPtHGSS - Onemuri Pikachu - JPN.myg					936
+042 - DPPt - Pikachu-Colored Pichu - JPN.myg					936
+043 - DPPtHGSS - Osaka Meowth - JPN.myg					936
+045 - DPPt - Item Lucario Doll - JPN.myg					936
+046 - DPPt - NZ Jirachi - JPN.myg					936
+047 - DPPtHGSS - Bday Charmander 2009 - JPN.myg					936
+049 - DPPtHGSS - Bday Chimchar 2009 - JPN.myg					936
+050 - DPHGSS - Kyoto Pikachu - JPN.myg					936
+053 - DPPtHGSS - Anniversary Mew - JPN.myg					936
+056 - DPPtHGSS - Ario Pikachu - JPN.myg					936
+057 - DPPtHGSS - Bday Pikachu 2009 - JPN.myg					936
+059 - DPPtHGSS - Crown Raikou - JPN.myg					936
+060 - DPPtHGSS - Crown Entei - JPN.myg					936
+061 - DPPtHGSS - Crown Suicune - JPN.myg					936
+062 - DPPtHGSS - Movie 2010 Celebi - JPN.myg					936
+063 - DPPtHGSS - Goon's Scizor - JPN.myg					936
+065 - DPPtHGSS - Satoshi's Pikachu - JPN.myg					936
+066 - DPPtHGSS - NZ Manaphy - JPN.myg					936
+067 - DPPtHGSS - Bday Charmander 2010 - JPN.myg					936
+069 - DPPtHGSS - 7-Eleven Pikachu - JPN.myg					936
+070 - DPPtHGSS - Bday Chimchar 2010 - JPN.myg					936

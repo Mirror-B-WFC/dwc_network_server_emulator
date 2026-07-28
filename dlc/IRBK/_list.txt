@@ -1,65 +1,65 @@
-0028 - BW - 홈플러스 Darkrai - KOR.bin	720
-0029 - BW - (Trainer) Axew Egg - KOR.bin	720
-0029 - BW - (Trainer) Pansage Egg - KOR.bin	720
-0029 - BW - (Trainer) Pidove Egg - KOR.bin	720
-0030 - BW - 방송국 Zoroark - KOR.bin	720
-0031 - BW - 지우 Scraggy - KOR.bin	720
-0032 - BW - 아인트 Victini - KOR.bin	720
-0033 - B - 지우 Zekrom - KOR.bin	720
-0035 - B - 카리타 Hydreigon - KOR.bin	720
-0048 - BW - 최강의귀환 Mewtwo - KOR.bin	720
-0051 - B - 삼로스섬 Thundurus - KOR.bin	720
-0069 - BWB2W2 - 성검사 Keldeo - KOR.bin	720
-0070 - BWB2W2 - 영화관 Meloetta - KOR.bin	720
-0071 - BW - 썸머카니발 Pikachu - KOR.bin	720
-0094 - BW - 선발전12 Volcarona - KOR.bin	720
-0095 - BWB2W2 - (Trainer) Bulbasaur Egg - KOR.bin	720
-0095 - BWB2W2 - (Trainer) Charmander Egg - KOR.bin	720
-0095 - BWB2W2 - (Trainer) Squirtle Egg - KOR.bin	720
-0097 - BWB2W2 - 음악회 Piplup - KOR.bin	720
-0105 - BW - 용의해 Bagon - KOR.bin	720
-0105 - BW - 용의해 Deino - KOR.bin	720
-0105 - BW - 용의해 Druddigon - KOR.bin	720
-0105 - BW - 용의해 Horsea - KOR.bin	720
-0105 - BW - 용의해 Swablu - KOR.bin	720
-0105 - BW - 용의해 Trapinch - KOR.bin	720
-0106 - BW - 용의해 Bagon - KOR.bin	720
-0106 - BW - 용의해 Deino - KOR.bin	720
-0106 - BW - 용의해 Druddigon - KOR.bin	720
-0106 - BW - 용의해 Horsea - KOR.bin	720
-0106 - BW - 용의해 Swablu - KOR.bin	720
-0106 - BW - 용의해 Trapinch - KOR.bin	720
-0107 - BW - 용의해 Bagon - KOR.bin	720
-0107 - BW - 용의해 Deino - KOR.bin	720
-0107 - BW - 용의해 Druddigon - KOR.bin	720
-0107 - BW - 용의해 Horsea - KOR.bin	720
-0107 - BW - 용의해 Swablu - KOR.bin	720
-0107 - BW - 용의해 Trapinch - KOR.bin	720
-0108 - BW - 용의해 Bagon - KOR.bin	720
-0108 - BW - 용의해 Deino - KOR.bin	720
-0108 - BW - 용의해 Druddigon - KOR.bin	720
-0108 - BW - 용의해 Horsea - KOR.bin	720
-0108 - BW - 용의해 Swablu - KOR.bin	720
-0108 - BW - 용의해 Trapinch - KOR.bin	720
-0109 - BW - 용의해 Bagon - KOR.bin	720
-0109 - BW - 용의해 Deino - KOR.bin	720
-0109 - BW - 용의해 Druddigon - KOR.bin	720
-0109 - BW - 용의해 Horsea - KOR.bin	720
-0109 - BW - 용의해 Swablu - KOR.bin	720
-0109 - BW - 용의해 Trapinch - KOR.bin	720
-0110 - BW - 용의해 Bagon - KOR.bin	720
-0110 - BW - 용의해 Deino - KOR.bin	720
-0110 - BW - 용의해 Druddigon - KOR.bin	720
-0110 - BW - 용의해 Horsea - KOR.bin	720
-0110 - BW - 용의해 Swablu - KOR.bin	720
-0110 - BW - 용의해 Trapinch - KOR.bin	720
-0136 - BWB2W2 - 영화관 Shiny Genesect - KOR.bin	720
-0148 - BWB2W2 - 10_12 Shiny Dialga - KOR.bin	720
-0149 - BWB2W2 - 10_12 Shiny Palkia - KOR.bin	720
-0150 - BWB2W2 - 10_12 Shiny Giratina - KOR.bin	720
-0153 - BWB2W2 - 캐릭터페어 Jirachi - KOR.bin	720
-0154 - BWB2W2 - 칠석 Jirachi - KOR.bin	720
-0162 - BWB2W2 - 권도훈 Hitmontop - KOR.bin	720
-0163 - BWB2W2 - 사승헌 Cresselia - KOR.bin	720
-0164 - BWB2W2 - 박세준 Liepard - KOR.bin	720
-2046 - BW - Item Liberty Pass - KOR.bin	720
+0028 - BW - 홈플러스 Darkrai - KOR.bin		MYSTERY_K	300000		720
+0029 - BW - (Trainer) Axew Egg - KOR.bin		MYSTERY_K	300000		720
+0029 - BW - (Trainer) Pansage Egg - KOR.bin		MYSTERY_K	300000		720
+0029 - BW - (Trainer) Pidove Egg - KOR.bin		MYSTERY_K	300000		720
+0030 - BW - 방송국 Zoroark - KOR.bin		MYSTERY_K	300000		720
+0031 - BW - 지우 Scraggy - KOR.bin		MYSTERY_K	300000		720
+0032 - BW - 아인트 Victini - KOR.bin		MYSTERY_K	300000		720
+0033 - B - 지우 Zekrom - KOR.bin		MYSTERY_K	200000		720
+0035 - B - 카리타 Hydreigon - KOR.bin		MYSTERY_K	200000		720
+0048 - BW - 최강의귀환 Mewtwo - KOR.bin		MYSTERY_K	300000		720
+0051 - B - 삼로스섬 Thundurus - KOR.bin		MYSTERY_K	200000		720
+0069 - BWB2W2 - 성검사 Keldeo - KOR.bin		MYSTERY_K	f00000		720
+0070 - BWB2W2 - 영화관 Meloetta - KOR.bin		MYSTERY_K	f00000		720
+0071 - BW - 썸머카니발 Pikachu - KOR.bin		MYSTERY_K	300000		720
+0094 - BW - 선발전12 Volcarona - KOR.bin		MYSTERY_K	300000		720
+0095 - BWB2W2 - (Trainer) Bulbasaur Egg - KOR.bin		MYSTERY_K	f00000		720
+0095 - BWB2W2 - (Trainer) Charmander Egg - KOR.bin		MYSTERY_K	f00000		720
+0095 - BWB2W2 - (Trainer) Squirtle Egg - KOR.bin		MYSTERY_K	f00000		720
+0097 - BWB2W2 - 음악회 Piplup - KOR.bin		MYSTERY_K	f00000		720
+0105 - BW - 용의해 Bagon - KOR.bin		MYSTERY_K	300000		720
+0105 - BW - 용의해 Deino - KOR.bin		MYSTERY_K	300000		720
+0105 - BW - 용의해 Druddigon - KOR.bin		MYSTERY_K	300000		720
+0105 - BW - 용의해 Horsea - KOR.bin		MYSTERY_K	300000		720
+0105 - BW - 용의해 Swablu - KOR.bin		MYSTERY_K	300000		720
+0105 - BW - 용의해 Trapinch - KOR.bin		MYSTERY_K	300000		720
+0106 - BW - 용의해 Bagon - KOR.bin		MYSTERY_K	300000		720
+0106 - BW - 용의해 Deino - KOR.bin		MYSTERY_K	300000		720
+0106 - BW - 용의해 Druddigon - KOR.bin		MYSTERY_K	300000		720
+0106 - BW - 용의해 Horsea - KOR.bin		MYSTERY_K	300000		720
+0106 - BW - 용의해 Swablu - KOR.bin		MYSTERY_K	300000		720
+0106 - BW - 용의해 Trapinch - KOR.bin		MYSTERY_K	300000		720
+0107 - BW - 용의해 Bagon - KOR.bin		MYSTERY_K	300000		720
+0107 - BW - 용의해 Deino - KOR.bin		MYSTERY_K	300000		720
+0107 - BW - 용의해 Druddigon - KOR.bin		MYSTERY_K	300000		720
+0107 - BW - 용의해 Horsea - KOR.bin		MYSTERY_K	300000		720
+0107 - BW - 용의해 Swablu - KOR.bin		MYSTERY_K	300000		720
+0107 - BW - 용의해 Trapinch - KOR.bin		MYSTERY_K	300000		720
+0108 - BW - 용의해 Bagon - KOR.bin		MYSTERY_K	300000		720
+0108 - BW - 용의해 Deino - KOR.bin		MYSTERY_K	300000		720
+0108 - BW - 용의해 Druddigon - KOR.bin		MYSTERY_K	300000		720
+0108 - BW - 용의해 Horsea - KOR.bin		MYSTERY_K	300000		720
+0108 - BW - 용의해 Swablu - KOR.bin		MYSTERY_K	300000		720
+0108 - BW - 용의해 Trapinch - KOR.bin		MYSTERY_K	300000		720
+0109 - BW - 용의해 Bagon - KOR.bin		MYSTERY_K	300000		720
+0109 - BW - 용의해 Deino - KOR.bin		MYSTERY_K	300000		720
+0109 - BW - 용의해 Druddigon - KOR.bin		MYSTERY_K	300000		720
+0109 - BW - 용의해 Horsea - KOR.bin		MYSTERY_K	300000		720
+0109 - BW - 용의해 Swablu - KOR.bin		MYSTERY_K	300000		720
+0109 - BW - 용의해 Trapinch - KOR.bin		MYSTERY_K	300000		720
+0110 - BW - 용의해 Bagon - KOR.bin		MYSTERY_K	300000		720
+0110 - BW - 용의해 Deino - KOR.bin		MYSTERY_K	300000		720
+0110 - BW - 용의해 Druddigon - KOR.bin		MYSTERY_K	300000		720
+0110 - BW - 용의해 Horsea - KOR.bin		MYSTERY_K	300000		720
+0110 - BW - 용의해 Swablu - KOR.bin		MYSTERY_K	300000		720
+0110 - BW - 용의해 Trapinch - KOR.bin		MYSTERY_K	300000		720
+0136 - BWB2W2 - 영화관 Shiny Genesect - KOR.bin		MYSTERY_K	f00000		720
+0148 - BWB2W2 - 10_12 Shiny Dialga - KOR.bin		MYSTERY_K	f00000		720
+0149 - BWB2W2 - 10_12 Shiny Palkia - KOR.bin		MYSTERY_K	f00000		720
+0150 - BWB2W2 - 10_12 Shiny Giratina - KOR.bin		MYSTERY_K	f00000		720
+0153 - BWB2W2 - 캐릭터페어 Jirachi - KOR.bin		MYSTERY_K	f00000		720
+0154 - BWB2W2 - 칠석 Jirachi - KOR.bin		MYSTERY_K	f00000		720
+0162 - BWB2W2 - 권도훈 Hitmontop - KOR.bin		MYSTERY_K	f00000		720
+0163 - BWB2W2 - 사승헌 Cresselia - KOR.bin		MYSTERY_K	f00000		720
+0164 - BWB2W2 - 박세준 Liepard - KOR.bin		MYSTERY_K	f00000		720
+2046 - BW - Item Liberty Pass - KOR.bin		MYSTERY_K	300000		720

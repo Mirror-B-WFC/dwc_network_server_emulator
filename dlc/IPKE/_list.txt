@@ -1,18 +1,18 @@
-024 - DPPtHGSS - Night Sky Jirachi - ENG.myg	936
-024 - DPPtHGSS - Night Sky Jirachi (AU) - ENG.myg	936
-048 - HGSS - Item Yellow Forest Course - ENG.myg	936
-051 - HGSS - Item Winner's Path Course - ENG.myg	936
-052 - HGSS - VGC 2010 Eevee - ENG.myg	936
-053 - HGSS - Anniversary Mew - ENG.myg	936
-054 - HGSS - Item Enigma Stone - ENG.myg	936
-059 - DPPtHGSS - GameStop Raikou - ENG.myg	936
-059 - DPPtHGSS - Winter Raikou - ENG.myg	936
-060 - DPPtHGSS - GameStop Entei - ENG.myg	936
-060 - DPPtHGSS - Winter Entei - ENG.myg	936
-061 - DPPtHGSS - GameStop Suicune - ENG.myg	936
-061 - DPPtHGSS - Winter Suicune - ENG.myg	936
-062 - DPPtHGSS - GameStop Celebi - ENG.myg	936
-062 - DPPtHGSS - Winter Celebi (EU) - ENG.myg	936
-062 - DPPtHGSS - Winter Celebi (NA) - ENG.myg	936
-065 - DPPtHGSS - Ash's Pikachu - ENG.myg	936
-068 - DPPtHGSS - Worlds 2010 Crobat - ENG.myg	936
+024 - DPPtHGSS - Night Sky Jirachi - ENG.myg					936
+024 - DPPtHGSS - Night Sky Jirachi (AU) - ENG.myg					936
+048 - HGSS - Item Yellow Forest Course - ENG.myg					936
+051 - HGSS - Item Winner's Path Course - ENG.myg					936
+052 - HGSS - VGC 2010 Eevee - ENG.myg					936
+053 - HGSS - Anniversary Mew - ENG.myg					936
+054 - HGSS - Item Enigma Stone - ENG.myg					936
+059 - DPPtHGSS - GameStop Raikou - ENG.myg					936
+059 - DPPtHGSS - Winter Raikou - ENG.myg					936
+060 - DPPtHGSS - GameStop Entei - ENG.myg					936
+060 - DPPtHGSS - Winter Entei - ENG.myg					936
+061 - DPPtHGSS - GameStop Suicune - ENG.myg					936
+061 - DPPtHGSS - Winter Suicune - ENG.myg					936
+062 - DPPtHGSS - GameStop Celebi - ENG.myg					936
+062 - DPPtHGSS - Winter Celebi (EU) - ENG.myg					936
+062 - DPPtHGSS - Winter Celebi (NA) - ENG.myg					936
+065 - DPPtHGSS - Ash's Pikachu - ENG.myg					936
+068 - DPPtHGSS - Worlds 2010 Crobat - ENG.myg					936
