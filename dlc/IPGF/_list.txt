@@ -2,15 +2,15 @@
 205gsJPrally.myg					936
 206gsJPamitymeadow.myg					936
 248gsUNlockcapsule.myg					936
-24dppgs.myg					936
-48gs.myg					936
-51gs.myg					936
-52gs.myg					936
-53gs.myg					936
-54gs.myg					936
-59dppgs.myg					936
-60dppgs.myg					936
-61dppgs.myg					936
-62dppgs.myg					936
-65dppgs.myg					936
-68dppgs.myg					936
+024 - DPPtHGSS - Night Sky Jirachi - FRE.myg					936
+048 - HGSS - Item Yellow Forest Course - FRE.myg					936
+051 - HGSS - Item Winner's Path Course - FRE.myg					936
+052 - HGSS - VGC 2010 Eevee - FRE.myg					936
+053 - HGSS - Anniversary Mew - FRE.myg					936
+054 - HGSS - Item Enigma Stone - FRE.myg					936
+059 - DPPtHGSS - Winter Raikou - FRE.myg					936
+060 - DPPtHGSS - Winter Entei - FRE.myg					936
+061 - DPPtHGSS - Winter Suicune - FRE.myg					936
+062 - DPPtHGSS - Winter Celebi - FRE.myg					936
+065 - DPPtHGSS - Ash's Pikachu - ENG.myg					936
+068 - DPPtHGSS - Worlds 2010 Crobat - ENG.myg					936

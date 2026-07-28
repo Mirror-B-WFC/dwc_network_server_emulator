@@ -1,18 +1,18 @@
-154p.myg					936
-17p.myg					936
-180dpp.myg					936
-18dpp.myg					936
-19dpp.myg					936
+154 - Pt - VGC 2009 Milotic - ENG.myg					936
+017 - Pt - Item Secret Key - ITA.myg					936
+180 - DPPt - Movie Regigigas - ITA.myg					936
+018 - Pt - Item Member Card - ITA.myg					936
+019 - DPPt - Movie Arceus - ITA.myg					936
 201dppUNstopwatch.myg					936
 202dppUNalarmclock.myg					936
 203dppUNazureflute.myg					936
 207dppJPlucariodoll.myg					936
-20dpp.myg					936
-21dpp.myg					936
-24dppgs.myg					936
-59dppgs.myg					936
-60dppgs.myg					936
-61dppgs.myg					936
-62dppgs.myg					936
-65dppgs.myg					936
-68dppgs.myg					936
+020 - Pt - Item Oak's Letter - ITA.myg					936
+021 - DPPt - Pikachu-Colored Pichu - ITA.myg					936
+024 - DPPtHGSS - Night Sky Jirachi - ITA.myg					936
+059 - DPPtHGSS - Winter Raikou - ITA.myg					936
+060 - DPPtHGSS - Winter Entei - ITA.myg					936
+061 - DPPtHGSS - Winter Suicune - ITA.myg					936
+062 - DPPtHGSS - Winter Celebi - ITA.myg					936
+065 - DPPtHGSS - Ash's Pikachu - ENG.myg					936
+068 - DPPtHGSS - Worlds 2010 Crobat - ENG.myg					936

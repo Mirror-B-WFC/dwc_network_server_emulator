@@ -1,15 +1,15 @@
 205gsJPrally.myg					936
 206gsJPamitymeadow.myg					936
-22gsYellowForest.myg					936
-23gsSightseeing.myg					936
+022 - HGSS - Item Yellow Forest Course - KOR.myg					936
+023 - HGSS - Item Sightseeing Course - KOR.myg					936
 248gsUNlockcapsule.myg					936
-24dppgs.myg					936
-25gsWinnersPath.myg					936
-26gsEnigmaStone.myg					936
-27gs.myg					936
-28dppgs.myg					936
-29dppgs.myg					936
-30dppgs.myg					936
-31dppgs.myg					936
-63dppgs.myg					936
-65dppgs.myg					936
+024 - DPPtHGSS - Shaymin - KOR.myg					936
+025 - HGSS - Item Winner's Path Course - KOR.myg					936
+026 - HGSS - Item Enigma Stone - KOR.myg					936
+027 - HGSS - Shiny Milotic - KOR.myg					936
+028 - DPPtHGSS - Raikou - KOR.myg					936
+029 - DPPtHGSS - Entei - KOR.myg					936
+030 - DPPtHGSS - Shiny Suicune - KOR.myg					936
+031 - DPPtHGSS - Celebi - KOR.myg					936
+063 - DPPtHGSS - Scizor - KOR.myg					936
+065 - DPPtHGSS - Pikachu - KOR.myg					936

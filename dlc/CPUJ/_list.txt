@@ -1,31 +1,31 @@
-156p.myg					936
+156 - Pt - Item Secret Key - JPN.myg					936
 201dppUNstopwatch.myg					936
 202dppUNalarmclock.myg					936
 203dppUNazureflute.myg					936
-30dpp.myg					936
-33dppgs.myg					936
-34dppgs.myg					936
-35p.myg					936
-36dpp.myg					936
-40dppgs.myg					936
-41dppgs.myg					936
-42dpp.myg					936
-43dppgs.myg					936
-44dpp.myg					936
-45dpp.myg					936
-46dpp.myg					936
-47dppgs.myg					936
-49dppgs.myg					936
-53dppgs.myg					936
-56dppgs.myg					936
-57dppgs.myg					936
-59dppgs.myg					936
-60dppgs.myg					936
-61dppgs.myg					936
-62dppgs.myg					936
-63dppgs.myg					936
-65dppgs.myg					936
-66dppgs.myg					936
-67dppgs.myg					936
-69dppgs.myg					936
-70dppgs.myg					936
+030 - DPPt - Movie 2009 Arceus - JPN.myg					936
+033 - DPPtHGSS - PC Yokohama Pikachu - JPN.myg					936
+034 - DPPtHGSS - Bday Pikachu 2008 - JPN.myg					936
+035 - Pt - VGC 2009 Milotic - JPN.myg					936
+036 - Pt - Item Member Card - JPN.myg					936
+040 - DPPtHGSS - Eevee Collection - JPN.myg					936
+041 - DPPtHGSS - Onemuri Pikachu - JPN.myg					936
+042 - DPPt - Pikachu-Colored Pichu - JPN.myg					936
+043 - DPPtHGSS - Osaka Meowth - JPN.myg					936
+044 - Pt - Item Oak's Letter - JPN.myg					936
+045 - DPPt - Item Lucario Doll - JPN.myg					936
+046 - DPPt - NZ Jirachi - JPN.myg					936
+047 - DPPtHGSS - Bday Charmander 2009 - JPN.myg					936
+049 - DPPtHGSS - Bday Chimchar 2009 - JPN.myg					936
+053 - DPPtHGSS - Anniversary Mew - JPN.myg					936
+056 - DPPtHGSS - Ario Pikachu - JPN.myg					936
+057 - DPPtHGSS - Bday Pikachu 2009 - JPN.myg					936
+059 - DPPtHGSS - Crown Raikou - JPN.myg					936
+060 - DPPtHGSS - Crown Entei - JPN.myg					936
+061 - DPPtHGSS - Crown Suicune - JPN.myg					936
+062 - DPPtHGSS - Movie 2010 Celebi - JPN.myg					936
+063 - DPPtHGSS - Goon's Scizor - JPN.myg					936
+065 - DPPtHGSS - Satoshi's Pikachu - JPN.myg					936
+066 - DPPtHGSS - NZ Manaphy - JPN.myg					936
+067 - DPPtHGSS - Bday Charmander 2010 - JPN.myg					936
+069 - DPPtHGSS - 7-Eleven Pikachu - JPN.myg					936
+070 - DPPtHGSS - Bday Chimchar 2010 - JPN.myg					936
