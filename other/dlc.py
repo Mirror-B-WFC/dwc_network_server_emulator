@@ -28,7 +28,7 @@ from gamespy.gs_database import GamespyDatabase
 # If a game from this list requests a file listing, the server will return
 # that only one exists and return a random one.
 # This is used for Mystery Gift distribution on Generation 4 Pokemon games
-gamecodes_return_random_file = [
+gamecodes_gen_iv = [
     'ADAD',
     'ADAE',
     'ADAF',
@@ -51,6 +51,23 @@ gamecodes_return_random_file = [
     'IPGK',
     'IPGS'
 ]
+
+# The Generation 5 Pokemon games, for Mystery Gift Distribution
+gamecodes_gen_v = [
+    'IRAJ',
+    'IRAK',
+    'IRAO',
+    'IRBJ',
+    'IRBK',
+    'IRBO',
+    'IRDJ',
+    'IRDK',
+    'IRDO',
+    'IREJ',
+    'IREK',
+    'IREO',
+]
+
 
 filter_bit_g5 = {
     'A': 0x100000,
@@ -120,7 +137,7 @@ def filter_list_by_date(data, token):
 def filter_list_g5_mystery_gift(data, rhgamecd):
     """Custom selection for generation 5 mystery gifts, so that the random
     or data-based selection still works properly."""
-    if len(rhgamecd) < 2 or rhgamecd[2] not in filter_bit_g5:
+    if len(rhgamecd) < 4 or rhgamecd[2] not in filter_bit_g5:
         # unknown game, can't filter
         return data
     filter_bit = filter_bit_g5[rhgamecd[2]]
@@ -151,7 +168,7 @@ def safeloadfi(dlc_path, name, mode='rb'):
 
 def download_count(dlc_path, post):
     """Handle download count request."""
-    if post["gamecd"] in gamecodes_return_random_file:
+    if post["gamecd"] in gamecodes_gen_iv:
         return "1"
     if os.path.exists(dlc_path):
         attr1 = post.get("attr1", None)
@@ -160,6 +177,8 @@ def download_count(dlc_path, post):
         if os.path.isfile(os.path.join(dlc_path, "_list.txt")):
             dlc_file = safeloadfi(dlc_path, "_list.txt")
             ls = filter_list(dlc_file, attr1, attr2, attr3)
+            if post["gamecd"] in gamecodes_gen_v:
+                ls = filter_list_g5_mystery_gift(ls, post["rhgamecd"])
             return "{}".format(get_file_count(ls))
         elif attr1 is None and attr2 is None and attr3 is None:
             return "{}".format(len(os.listdir(dlc_path)))
@@ -200,12 +219,11 @@ def download_list(dlc_path, post):
     attr2 = post.get("attr2", None)
     attr3 = post.get("attr3", None)
 
-    if post["gamecd"].startswith("IRA") and attr1.startswith("MYSTERY"):
-        # Pokemon BW Mystery Gifts, until we have a better solution for that
+    if post["gamecd"] in gamecodes_gen_v:
         ret = filter_list(list_data, attr1, attr2, attr3)
         ret = filter_list_g5_mystery_gift(ret, post["rhgamecd"])
         return filter_list_by_date(ret, post["token"])
-    elif post["gamecd"] in gamecodes_return_random_file:
+    elif post["gamecd"] in gamecodes_gen_iv:
         # Pokemon Gen 4 Mystery Gifts, same here
         ret = filter_list(list_data, attr1, attr2, attr3)
         return filter_list_by_date(ret, post["token"])
