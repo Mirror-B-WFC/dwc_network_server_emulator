@@ -1,29 +1,26 @@
-154 - Pt - VGC 2009 Milotic - ENG.myg					936
-17p.myg					936
-180 - DPPt - Movie Regigigas (UK) - ENG.myg					936
-018 - Pt - Item Member Card - ENG.myg					936
-019 - DPPt - Movie Arceus (AU) - ENG.myg					936
-019 - DPPt - Movie Arceus (UK) - ENG.myg					936
-019 - DPPt - Movie Arceus (NA) - ENG.myg					936
-201dppUNstopwatch.myg					936
-202dppUNalarmclock.myg					936
-203dppUNazureflute.myg					936
-207dppJPlucariodoll.myg					936
-020 - Pt - Item Oak's Letter - ENG.myg					936
-021 - DPPt - Pikachu-Colored Pichu - ENG.myg					936
-021 - DPPt - Pikachu-Colored Pichu (NA) - ENG.myg					936
-024 - DPPt - Night Sky Jirachi (GamePlanet) - ENG.myg					936
-024 - DPPt - Gamestop Jirachi - ENG.myg					936
-024 - DPPtHGSS - Night Sky Jirachi (AU) - ENG.myg					936
-024 - DPPtHGSS - Night Sky Jirachi - ENG.myg					936
-059 - DPPtHGSS - Winter Raikou - ENG.myg					936
-059 - DPPtHGSS - GameStop Raikou - ENG.myg					936
-060 - DPPtHGSS - Winter Entei - ENG.myg					936
-060 - DPPtHGSS - GameStop Entei - ENG.myg					936
-061 - DPPtHGSS - Winter Suicune - ENG.myg					936
-061 - DPPtHGSS - GameStop Suicune - ENG.myg					936
-062 - DPPtHGSS - Winter Celebi (EU) - ENG.myg					936
-062 - DPPtHGSS - GameStop Celebi - ENG.myg					936
-062 - DPPtHGSS - Winter Celebi (NA) - ENG.myg					936
-065 - DPPtHGSS - Ash's Pikachu - ENG.myg					936
-068 - DPPtHGSS - Worlds 2010 Crobat - ENG.myg					936
+017 - Pt - Item Secret Key (NA) - ENG.myg	936
+017 - Pt - Item Secret Key (UK) - ENG.myg	936
+018 - Pt - Item Member Card - ENG.myg	936
+019 - DPPt - Movie Arceus (AU) - ENG.myg	936
+019 - DPPt - Movie Arceus (NA) - ENG.myg	936
+019 - DPPt - Movie Arceus (UK) - ENG.myg	936
+020 - Pt - Item Oak's Letter - ENG.myg	936
+021 - DPPt - Pikachu-Colored Pichu - ENG.myg	936
+021 - DPPt - Pikachu-Colored Pichu (NA) - ENG.myg	936
+024 - DPPt - Gamestop Jirachi - ENG.myg	936
+024 - DPPt - Night Sky Jirachi (GamePlanet) - ENG.myg	936
+024 - DPPtHGSS - Night Sky Jirachi - ENG.myg	936
+024 - DPPtHGSS - Night Sky Jirachi (AU) - ENG.myg	936
+059 - DPPtHGSS - GameStop Raikou - ENG.myg	936
+059 - DPPtHGSS - Winter Raikou - ENG.myg	936
+060 - DPPtHGSS - GameStop Entei - ENG.myg	936
+060 - DPPtHGSS - Winter Entei - ENG.myg	936
+061 - DPPtHGSS - GameStop Suicune - ENG.myg	936
+061 - DPPtHGSS - Winter Suicune - ENG.myg	936
+062 - DPPtHGSS - GameStop Celebi - ENG.myg	936
+062 - DPPtHGSS - Winter Celebi (EU) - ENG.myg	936
+062 - DPPtHGSS - Winter Celebi (NA) - ENG.myg	936
+065 - DPPtHGSS - Ash's Pikachu - ENG.myg	936
+068 - DPPtHGSS - Worlds 2010 Crobat - ENG.myg	936
+154 - Pt - VGC 2009 Milotic - ENG.myg	936
+180 - DPPt - Movie Regigigas (UK) - ENG.myg	936

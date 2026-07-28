@@ -1,19 +1,19 @@
-013 - DPPt - Munchlax - KOR.myg					936
-014 - DPPt - Feebas - KOR.myg					936
-015 - DPPt - Shaymin - KOR.myg					936
-016 - DPPt - Pikachu - KOR.myg					936
-017 - Pt - Item Secret Key - KOR.myg					936
-018 - Pt - Item Member Card - KOR.myg					936
-201dppUNstopwatch.myg					936
-202dppUNalarmclock.myg					936
-203dppUNazureflute.myg					936
-207dppJPlucariodoll.myg					936
-20dppOakLetter.myg					936
-021 - DPPt - Jirachi - KOR.myg					936
-024 - DPPtHGSS - Shaymin - KOR.myg					936
-028 - DPPtHGSS - Raikou - KOR.myg					936
-029 - DPPtHGSS - Entei - KOR.myg					936
-030 - DPPtHGSS - Shiny Suicune - KOR.myg					936
-031 - DPPtHGSS - Celebi - KOR.myg					936
-063 - DPPtHGSS - Scizor - KOR.myg					936
-065 - DPPtHGSS - Pikachu - KOR.myg					936
+013 - DPPt - 신세계 Munchlax - KOR.myg	936
+014 - DPPt - 신세계 Feebas - KOR.myg	936
+015 - DPPt - 캐릭터페어 Shaymin - KOR.myg	936
+016 - DPPt - 캐릭터페어 Pikachu - KOR.myg	936
+017 - Pt - Item Secret Key - KOR.myg	936
+018 - Pt - Item Member Card - KOR.myg	936
+019 - DPPt - 미케나 Shiny Pichu - KOR.myg	936
+020 - DPPt - 영화관 Arceus - KOR.myg	936
+021 - DPPt - 한국닌텐도 Jirachi - KOR.myg	936
+024 - DPPtHGSS - 타임스퀘어 Shaymin - KOR.myg	936
+028 - DPPtHGSS - 크라운시티 Raikou - KOR.myg	936
+029 - DPPtHGSS - 크라운시티 Entei - KOR.myg	936
+030 - DPPtHGSS - 크라운시티 Shiny Entei - KOR.myg	936
+030 - DPPtHGSS - 크라운시티 Shiny Raikou - KOR.myg	936
+030 - DPPtHGSS - 크라운시티 Shiny Suicune - KOR.myg	936
+031 - DPPtHGSS - 영화관 Celebi - KOR.myg	936
+063 - DPPtHGSS - 달건 Scizor - KOR.myg	936
+065 - DPPtHGSS - 지우 Pikachu - KOR.myg	936
+066 - DPPtHGSS - 포켓몬사랑 Manaphy - KOR.myg	936

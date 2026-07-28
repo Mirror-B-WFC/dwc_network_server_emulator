@@ -1,0 +1,52 @@
+0099 - B2W2 - Plasma Genesect - ENG.bin	720
+0099 - B2W2 - Plasma Genesect - FRE.bin	720
+0099 - B2W2 - Plasma Genesect - GER.bin	720
+0099 - B2W2 - Plasma Genesect - ITA.bin	720
+0099 - B2W2 - Plasma Genesect - SPA.bin	720
+0120 - BWB2W2 - ROCKET Meowth - ITA.bin	720
+0128 - B2W2 - HVR2013 Keldeo - FRE.bin	720
+0128 - B2W2 - INV2013 Keldeo - ITA.bin	720
+0128 - B2W2 - INV2013 Keldeo - SPA.bin	720
+0128 - B2W2 - WIN2013 Keldeo - ENG.bin	720
+0128 - B2W2 - WIN2013 Keldeo - GER.bin	720
+0129 - BWB2W2 - FRÜ2013 Meloetta - GER.bin	720
+0129 - BWB2W2 - PRI2013 Meloetta - FRE.bin	720
+0129 - BWB2W2 - PRI2013 Meloetta - ITA.bin	720
+0129 - BWB2W2 - PRI2013 Meloetta - SPA.bin	720
+0129 - BWB2W2 - SPR2013 Meloetta - ENG.bin	720
+0130 - BWB2W2 - Abram Cloyster - ENG.bin	720
+0131 - BWB2W2 - Toler Ludicolo - ENG.bin	720
+0132 - BWB2W2 - Ray Metagross - ENG.bin	720
+0132 - BWB2W2 - Ray Metagross - FRE.bin	720
+0132 - BWB2W2 - Ray Metagross - GER.bin	720
+0132 - BWB2W2 - Ray Metagross - ITA.bin	720
+0132 - BWB2W2 - Ray Metagross - SPA.bin	720
+0133 - B2W2 - Plasma Deoxys - ENG.bin	720
+0133 - B2W2 - Plasma Deoxys - FRE.bin	720
+0133 - B2W2 - Plasma Deoxys - GER.bin	720
+0133 - B2W2 - Plasma Deoxys - ITA.bin	720
+0133 - B2W2 - Plasma Deoxys - SPA.bin	720
+0135 - BWB2W2 - Ｐヒルズ Mewtwo - ENG.bin	720
+0148 - BWB2W2 - (08193) SUM2013 Shiny Dialga - ENG.bin	720
+0148 - BWB2W2 - (08303) SUM2013 Shiny Dialga - ENG.bin	720
+0148 - BWB2W2 - EST2013 Shiny Dialga - ITA.bin	720
+0148 - BWB2W2 - ÉTÉ2013 Shiny Dialga - FRE.bin	720
+0148 - BWB2W2 - SOM2013 Shiny Dialga - GER.bin	720
+0148 - BWB2W2 - VER2013 Shiny Dialga - SPA.bin	720
+0149 - BWB2W2 - (09093) SUM2013 Shiny Palkia - ENG.bin	720
+0149 - BWB2W2 - (09133) SUM2013 Shiny Palkia - ENG.bin	720
+0149 - BWB2W2 - EST2013 Shiny Palkia - ITA.bin	720
+0149 - BWB2W2 - ÉTÉ2013 Shiny Palkia - FRE.bin	720
+0149 - BWB2W2 - SOM2013 Shiny Palkia - GER.bin	720
+0149 - BWB2W2 - VER2013 Shiny Palkia - SPA.bin	720
+0150 - BWB2W2 - (09273) SUM2013 Shiny Giratina - ENG.bin	720
+0150 - BWB2W2 - (09303) SUM2013 Shiny Giratina - ENG.bin	720
+0150 - BWB2W2 - EST2013 Shiny Giratina - ITA.bin	720
+0150 - BWB2W2 - ÉTÉ2013 Shiny Giratina - FRE.bin	720
+0150 - BWB2W2 - SOM2013 Shiny Giratina - GER.bin	720
+0150 - BWB2W2 - VER2013 Shiny Giratina - SPA.bin	720
+0155 - BWB2W2 - WORLD13 Smeargle - ENG.bin	720
+0155 - BWB2W2 - WORLD13 Smeargle - FRE.bin	720
+0155 - BWB2W2 - WORLD13 Smeargle - GER.bin	720
+0155 - BWB2W2 - WORLD13 Smeargle - ITA.bin	720
+0155 - BWB2W2 - WORLD13 Smeargle - SPA.bin	720

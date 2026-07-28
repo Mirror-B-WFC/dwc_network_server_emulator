@@ -1,0 +1,52 @@
+0069 - BWB2W2 - 성검사 Keldeo - KOR.bin	720
+0070 - BWB2W2 - 영화관 Meloetta - KOR.bin	720
+0095 - BWB2W2 - (Trainer) Bulbasaur Egg - KOR.bin	720
+0095 - BWB2W2 - (Trainer) Charmander Egg - KOR.bin	720
+0095 - BWB2W2 - (Trainer) Squirtle Egg - KOR.bin	720
+0097 - BWB2W2 - 음악회 Piplup - KOR.bin	720
+0099 - B2W2 - 플라스마단 Genesect - KOR.bin	720
+0111 - B2W2 - SETEC Dragonite - KOR.bin	720
+0111 - B2W2 - SETEC Garchomp - KOR.bin	720
+0111 - B2W2 - SETEC Metagross - KOR.bin	720
+0111 - B2W2 - SETEC Scizor - KOR.bin	720
+0111 - B2W2 - SETEC Tyranitar - KOR.bin	720
+0112 - B2W2 - SETEC Dragonite - KOR.bin	720
+0112 - B2W2 - SETEC Garchomp - KOR.bin	720
+0112 - B2W2 - SETEC Metagross - KOR.bin	720
+0112 - B2W2 - SETEC Scizor - KOR.bin	720
+0112 - B2W2 - SETEC Tyranitar - KOR.bin	720
+0113 - B2W2 - BEXCO Dragonite - KOR.bin	720
+0113 - B2W2 - BEXCO Garchomp - KOR.bin	720
+0113 - B2W2 - BEXCO Metagross - KOR.bin	720
+0113 - B2W2 - BEXCO Scizor - KOR.bin	720
+0113 - B2W2 - BEXCO Tyranitar - KOR.bin	720
+0114 - B2W2 - aT센터 Dragonite - KOR.bin	720
+0114 - B2W2 - aT센터 Garchomp - KOR.bin	720
+0114 - B2W2 - aT센터 Metagross - KOR.bin	720
+0114 - B2W2 - aT센터 Scizor - KOR.bin	720
+0114 - B2W2 - aT센터 Tyranitar - KOR.bin	720
+0115 - B2W2 - aT센터 Dragonite - KOR.bin	720
+0115 - B2W2 - aT센터 Garchomp - KOR.bin	720
+0115 - B2W2 - aT센터 Metagross - KOR.bin	720
+0115 - B2W2 - aT센터 Scizor - KOR.bin	720
+0115 - B2W2 - aT센터 Tyranitar - KOR.bin	720
+0120 - B2W2 - 로켓단 Meowth - KOR.bin	720
+0121 - B2W2 - (Trainer) Bulbasaur Egg - KOR.bin	720
+0121 - B2W2 - (Trainer) Charmander Egg - KOR.bin	720
+0121 - B2W2 - (Trainer) Squirtle Egg - KOR.bin	720
+0122 - B2W2 - (Trainer) Bulbasaur Egg - KOR.bin	720
+0122 - B2W2 - (Trainer) Charmander Egg - KOR.bin	720
+0122 - B2W2 - (Trainer) Squirtle Egg - KOR.bin	720
+0123 - B2W2 - (Trainer) Bulbasaur Egg - KOR.bin	720
+0123 - B2W2 - (Trainer) Charmander Egg - KOR.bin	720
+0123 - B2W2 - (Trainer) Squirtle Egg - KOR.bin	720
+0126 - B2W2 - 플라스마단 Deoxys - KOR.bin	720
+0136 - BWB2W2 - 영화관 Shiny Genesect - KOR.bin	720
+0148 - BWB2W2 - 10_12 Shiny Dialga - KOR.bin	720
+0149 - BWB2W2 - 10_12 Shiny Palkia - KOR.bin	720
+0150 - BWB2W2 - 10_12 Shiny Giratina - KOR.bin	720
+0153 - BWB2W2 - 캐릭터페어 Jirachi - KOR.bin	720
+0154 - BWB2W2 - 칠석 Jirachi - KOR.bin	720
+0162 - BWB2W2 - 권도훈 Hitmontop - KOR.bin	720
+0163 - BWB2W2 - 사승헌 Cresselia - KOR.bin	720
+0164 - BWB2W2 - 박세준 Liepard - KOR.bin	720
