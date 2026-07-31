@@ -358,6 +358,15 @@ def pretty_print_hex(orig_data, cols=16, sep=' '):
 #    return output
 
 
+def qs_to_dict_plain(s):
+    """Convert query string to dict with plain URL decoding (no base64).
+
+    Used for protocols like DLS1 where values are plain text, not base64.
+    """
+    ret = urlparse.parse_qs(s, True)
+    return {k: v[0] for k, v in ret.items()}
+
+
 def qs_to_dict(s):
     """Convert query string to dict."""
     ret = urlparse.parse_qs(s, True)
