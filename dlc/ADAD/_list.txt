@@ -1,12 +1,12 @@
-001 - DP - Movie Darkrai - GER.myg					936
-004 - DP - Movie Shaymin - GER.myg					936
-019 - DPPt - Movie Arceus - GER.myg					936
-021 - DPPt - Pikachu-Colored Pichu - GER.myg					936
-024 - DPPtHGSS - Night Sky Jirachi - GER.myg					936
-059 - DPPtHGSS - Winter Raikou - GER.myg					936
-060 - DPPtHGSS - Winter Entei - GER.myg					936
-061 - DPPtHGSS - Winter Suicune - GER.myg					936
-062 - DPPtHGSS - Winter Celebi - GER.myg					936
-179 - DP - VGC 2009 Milotic - GER.myg					936
-180 - DPPt - Movie Regigigas - GER.myg					936
---- - DPPtHGSS - NZone Pikachu (P) - GER.myg					936
+001-DP-Movie-491-D.myg					936
+004-DP-Movie-492-D.myg					936
+019-DPPt-Movie-493-D.myg					936
+021-DPPt-Colored-P-172-D.myg					936
+024-DPPtHGSS-NSky-385-D.myg					936
+059-DPPtHGSS-Winter-243-D.myg					936
+060-DPPtHGSS-Winter-244-D.myg					936
+061-DPPtHGSS-Winter-245-D.myg					936
+062-DPPtHGSS-Winter-251-D.myg					936
+179-DP-VGC 09-350-D.myg					936
+180-DPPt-Movie-486-D.myg					936
+----DPPtHGSS-NZone (P)-25-D.myg					936

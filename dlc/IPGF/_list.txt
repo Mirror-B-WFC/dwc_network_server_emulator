@@ -1,10 +1,10 @@
-024 - DPPtHGSS - Night Sky Jirachi - FRE.myg					936
-048 - HGSS - Item Yellow Forest Course - FRE.myg					936
-051 - HGSS - Item Winner's Path Course - FRE.myg					936
-052 - HGSS - VGC 2010 Eevee - FRE.myg					936
-053 - HGSS - Anniversary Mew - FRE.myg					936
-054 - HGSS - Item Enigma Stone - FRE.myg					936
-059 - DPPtHGSS - Winter Raikou - FRE.myg					936
-060 - DPPtHGSS - Winter Entei - FRE.myg					936
-061 - DPPtHGSS - Winter Suicune - FRE.myg					936
-062 - DPPtHGSS - Winter Celebi - FRE.myg					936
+024-DPPtHGSS-NSky-385-F.myg					936
+048-HGSS-Yellow Forest-Crs-F.myg					936
+051-HGSS-Winner's Path-Crs-F.myg					936
+052-HGSS-VGC 10-133-F.myg					936
+053-HGSS-Anniv-151-F.myg					936
+054-HGSS-Enigma Stone-Itm-F.myg					936
+059-DPPtHGSS-Winter-243-F.myg					936
+060-DPPtHGSS-Winter-244-F.myg					936
+061-DPPtHGSS-Winter-245-F.myg					936
+062-DPPtHGSS-Winter-251-F.myg					936

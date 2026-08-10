@@ -1,27 +1,27 @@
-003 - DP - 피카츄카페 Electivire (C) - KOR.myg					936
-004 - DP - 피카츄카페 Magmortar (C) - KOR.myg					936
-006 - DP - 피카츄카페 Tangrowth (C) - KOR.myg					936
-010 - DP - 한국닌텐도 Mew - KOR.myg					936
-011 - DP - 배틀시리즈 Arcanine - KOR.myg					936
-012 - DP - 한국닌텐도 Regigigas - KOR.myg					936
-013 - DPPt - 신세계 Munchlax - KOR.myg					936
-014 - DPPt - 신세계 Feebas - KOR.myg					936
-015 - DPPt - 캐릭터페어 Shaymin - KOR.myg					936
-016 - DPPt - 캐릭터페어 Pikachu - KOR.myg					936
-019 - DPPt - 미케나 Shiny Pichu - KOR.myg					936
-020 - DPPt - 영화관 Arceus - KOR.myg					936
-021 - DPPt - 한국닌텐도 Jirachi - KOR.myg					936
-024 - DPPtHGSS - 타임스퀘어 Shaymin - KOR.myg					936
-028 - DPPtHGSS - 크라운시티 Raikou - KOR.myg					936
-029 - DPPtHGSS - 크라운시티 Entei - KOR.myg					936
-030 - DPPtHGSS - 크라운시티 Shiny Entei - KOR.myg					936
-030 - DPPtHGSS - 크라운시티 Shiny Raikou - KOR.myg					936
-030 - DPPtHGSS - 크라운시티 Shiny Suicune - KOR.myg					936
-031 - DPPtHGSS - 영화관 Celebi - KOR.myg					936
-063 - DPPtHGSS - 달건 Scizor - KOR.myg					936
-065 - DPPtHGSS - 지우 Pikachu - KOR.myg					936
-066 - DPPtHGSS - 포켓몬사랑 Manaphy - KOR.myg					936
---- - DP - 한국닌텐도 Darkrai (P) - KOR.myg					936
---- - DP - 한국닌텐도 Deoxys (P) - KOR.myg					936
---- - DP - 한국닌텐도 Manaphy (P) - KOR.myg					936
---- - DP - 한국닌텐도 Rayquaza (P) - KOR.myg					936
+003-DP-피카츄카페 (C)-466-K.myg					936
+004-DP-피카츄카페 (C)-467-K.myg					936
+006-DP-피카츄카페 (C)-465-K.myg					936
+010-DP-한국닌텐도-151-K.myg					936
+011-DP-배틀시리즈-59-K.myg					936
+012-DP-한국닌텐도-486-K.myg					936
+013-DPPt-신세계-446-K.myg					936
+014-DPPt-신세계-349-K.myg					936
+015-DPPt-캐릭터페어-492-K.myg					936
+016-DPPt-캐릭터페어-25-K.myg					936
+019-DPPt-미케나-S-172-K.myg					936
+020-DPPt-영화관-493-K.myg					936
+021-DPPt-한국닌텐도-385-K.myg					936
+024-DPPtHGSS-타임스퀘어-492-K.myg					936
+028-DPPtHGSS-크라운시티-243-K.myg					936
+029-DPPtHGSS-크라운시티-244-K.myg					936
+030-DPPtHGSS-크라운시티-S-243-K.myg					936
+030-DPPtHGSS-크라운시티-S-244-K.myg					936
+030-DPPtHGSS-크라운시티-S-245-K.myg					936
+031-DPPtHGSS-영화관-251-K.myg					936
+063-DPPtHGSS-달건-212-K.myg					936
+065-DPPtHGSS-지우-25-K.myg					936
+066-DPPtHGSS-포켓몬사랑-490-K.myg					936
+----DP-한국닌텐도 (P)-384-K.myg					936
+----DP-한국닌텐도 (P)-386-K.myg					936
+----DP-한국닌텐도 (P)-490-K.myg					936
+----DP-한국닌텐도 (P)-491-K.myg					936

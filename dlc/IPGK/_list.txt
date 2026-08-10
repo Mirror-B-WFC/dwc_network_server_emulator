@@ -1,16 +1,16 @@
-022 - HGSS - Item Yellow Forest Course - KOR.myg					936
-023 - HGSS - Item Sightseeing Course - KOR.myg					936
-024 - DPPtHGSS - 타임스퀘어 Shaymin - KOR.myg					936
-025 - HGSS - Item Winner's Path Course - KOR.myg					936
-026 - HGSS - Item Enigma Stone - KOR.myg					936
-027 - HGSS - 캐릭터페어 Shiny Milotic - KOR.myg					936
-028 - DPPtHGSS - 크라운시티 Raikou - KOR.myg					936
-029 - DPPtHGSS - 크라운시티 Entei - KOR.myg					936
-030 - DPPtHGSS - 크라운시티 Shiny Entei - KOR.myg					936
-030 - DPPtHGSS - 크라운시티 Shiny Raikou - KOR.myg					936
-030 - DPPtHGSS - 크라운시티 Shiny Suicune - KOR.myg					936
-031 - DPPtHGSS - 영화관 Celebi - KOR.myg					936
-063 - DPPtHGSS - 달건 Scizor - KOR.myg					936
-064 - HGSS - Item Amity Field Course - KOR.myg					936
-065 - DPPtHGSS - 지우 Pikachu - KOR.myg					936
-066 - DPPtHGSS - 포켓몬사랑 Manaphy - KOR.myg					936
+022-HGSS-Yellow Forest-Crs-K.myg					936
+023-HGSS-Sightseeing-Crs-K.myg					936
+024-DPPtHGSS-타임스퀘어-492-K.myg					936
+025-HGSS-Winner's Path-Crs-K.myg					936
+026-HGSS-Enigma Stone-Itm-K.myg					936
+027-HGSS-캐릭터페어-S-350-K.myg					936
+028-DPPtHGSS-크라운시티-243-K.myg					936
+029-DPPtHGSS-크라운시티-244-K.myg					936
+030-DPPtHGSS-크라운시티-S-243-K.myg					936
+030-DPPtHGSS-크라운시티-S-244-K.myg					936
+030-DPPtHGSS-크라운시티-S-245-K.myg					936
+031-DPPtHGSS-영화관-251-K.myg					936
+063-DPPtHGSS-달건-212-K.myg					936
+064-HGSS-Amity Field-Crs-K.myg					936
+065-DPPtHGSS-지우-25-K.myg					936
+066-DPPtHGSS-포켓몬사랑-490-K.myg					936

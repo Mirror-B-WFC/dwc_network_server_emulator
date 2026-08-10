@@ -1,39 +1,39 @@
-001 - DP - TRU Manaphy - ENG.myg					936
-004 - DP - NWS Manaphy - ENG.myg					936
-005 - DP - JBHF Manaphy - ENG.myg					936
-006 - DP - E4ALL Manaphy - ENG.myg					936
-007 - DP - Movie Darkrai (NA) - ENG.myg					936
-008 - DP - GameStop Deoxys - ENG.myg					936
-009 - DP - Movie Darkrai (UK) - ENG.myg					936
-010 - DP - Movie Darkrai - ENG.myg					936
-011 - DP - Movie Darkrai (AU) - ENG.myg					936
-012 - DP - TRU Dragonite - ENG.myg					936
-013 - DP - Nzone Pikachu - ENG.myg					936
-014 - DP - Movie Shaymin (NA) - ENG.myg					936
-015 - DP - Movie Regigigas (NA) - ENG.myg					936
-016 - DP - Movie Shaymin (UK) - ENG.myg					936
-019 - DPPt - Movie Arceus (AU) - ENG.myg					936
-019 - DPPt - Movie Arceus (NA) - ENG.myg					936
-019 - DPPt - Movie Arceus (UK) - ENG.myg					936
-021 - DPPt - Pikachu-Colored Pichu - ENG.myg					936
-021 - DPPt - Pikachu-Colored Pichu (NA) - ENG.myg					936
-024 - DPPt - Gamestop Jirachi - ENG.myg					936
-024 - DPPt - Night Sky Jirachi (GamePlanet) - ENG.myg					936
-024 - DPPtHGSS - Night Sky Jirachi - ENG.myg					936
-024 - DPPtHGSS - Night Sky Jirachi (AU) - ENG.myg					936
-059 - DPPtHGSS - GameStop Raikou - ENG.myg					936
-059 - DPPtHGSS - Winter Raikou - ENG.myg					936
-060 - DPPtHGSS - GameStop Entei - ENG.myg					936
-060 - DPPtHGSS - Winter Entei - ENG.myg					936
-061 - DPPtHGSS - GameStop Suicune - ENG.myg					936
-061 - DPPtHGSS - Winter Suicune - ENG.myg					936
-062 - DPPtHGSS - GameStop Celebi - ENG.myg					936
-062 - DPPtHGSS - Winter Celebi (EU) - ENG.myg					936
-062 - DPPtHGSS - Winter Celebi (NA) - ENG.myg					936
-065 - DPPtHGSS - Ash's Pikachu - ENG.myg					936
-068 - DPPtHGSS - Worlds 2010 Crobat - ENG.myg					936
-153 - DP - Worlds 2008 Lucario - ENG.myg					936
-179 - DP - VGC 2009 Milotic (UK) - ENG.myg					936
-180 - DPPt - Movie Regigigas (UK) - ENG.myg					936
-181 - DP - Worlds 2009 Weavile - ENG.myg					936
---- - DP - TCGWC Pikachu (P) - ENG.myg					936
+001-DP-TRU-490-E.myg					936
+004-DP-NWS-490-E.myg					936
+005-DP-JBHF-490-E.myg					936
+006-DP-E4ALL-490-E.myg					936
+007-DP-Movie NA-491-E.myg					936
+008-DP-GameStop-386-E.myg					936
+009-DP-Movie UK-491-E.myg					936
+010-DP-Movie-491-E.myg					936
+011-DP-Movie AU-491-E.myg					936
+012-DP-TRU-149-E.myg					936
+013-DP-Nzone-25-E.myg					936
+014-DP-Movie NA-492-E.myg					936
+015-DP-Movie NA-486-E.myg					936
+016-DP-Movie UK-492-E.myg					936
+019-DPPt-Movie AU-493-E.myg					936
+019-DPPt-Movie NA-493-E.myg					936
+019-DPPt-Movie UK-493-E.myg					936
+021-DPPt-Colored NA-P-172-E.myg					936
+021-DPPt-Colored-P-172-E.myg					936
+024-DPPt-Gamestop-385-E.myg					936
+024-DPPt-NSky GPlanet-385-E.myg					936
+024-DPPtHGSS-NSky AU-385-E.myg					936
+024-DPPtHGSS-NSky-385-E.myg					936
+059-DPPtHGSS-GameStop-243-E.myg					936
+059-DPPtHGSS-Winter-243-E.myg					936
+060-DPPtHGSS-GameStop-244-E.myg					936
+060-DPPtHGSS-Winter-244-E.myg					936
+061-DPPtHGSS-GameStop-245-E.myg					936
+061-DPPtHGSS-Winter-245-E.myg					936
+062-DPPtHGSS-GameStop-251-E.myg					936
+062-DPPtHGSS-Winter EU-251-E.myg					936
+062-DPPtHGSS-Winter NA-251-E.myg					936
+065-DPPtHGSS-Ash's-25-E.myg					936
+068-DPPtHGSS-Worlds 10-169-E.myg					936
+153-DP-Worlds 08-448-E.myg					936
+179-DP-VGC 09 UK-350-E.myg					936
+180-DPPt-Movie UK-486-E.myg					936
+181-DP-Worlds 09-461-E.myg					936
+----DP-TCGWC (P)-25-E.myg					936
