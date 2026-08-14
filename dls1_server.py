@@ -99,7 +99,7 @@ def handle_download(handler, addr, post):
         if os.path.exists(fallback):
             logger.log(logging.DEBUG, "handle_download: b64 path missing, using plain fallback: %s", fallback)
             post["gamecd"] = post["gamecd_plain"]
-            post["rhgamecd"] = post.get("rhgamecd_plain", post["rhgamecd"])
+            post["rhgamecd"] = post.get("rhgamecd_plain") or post.get("rhgamecd", "")
             dlc_path = fallback
 
     if os.path.commonprefix([dlc_dir, dlc_path]) != dlc_dir:
