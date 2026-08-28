@@ -1,0 +1,56 @@
+001-DPPtSS-Concert-441-J.myg					936
+002-PPt-Festa-125-J.myg					936
+004-DP-Mizunotami-490-J.myg					936
+005-DP-Sunday-357-J.myg					936
+007-DP-Movie 07-491-J.myg					936
+008-DP-Sunday-340-J.myg					936
+009-DP-Pal City Hardy-490-J.myg					936
+009-DP-Pal City-490-J.myg					936
+010-DP-Pal City FUK-151-J.myg					936
+010-DP-Pal City MM-151-J.myg					936
+010-DP-Pal City NGO-151-J.myg					936
+010-DP-Pal City Osaka-151-J.myg					936
+010-DP-Pal City SPK-151-J.myg					936
+010-DP-Pal City YOK-151-J.myg					936
+011-DP-Pal City-448-J.myg					936
+012-DP-Matchup Checker-Itm-J.myg					936
+013-DP-Movie 07-386-J.myg					936
+014-DP-Tanabata 07 Gan-385-J.myg					936
+014-DP-Tanabata 07 Sal-385-J.myg					936
+015-DP-Bday 07-4-J.myg					936
+016-DP-Sunday-224-J.myg					936
+017-DP-Strongest-466-J.myg					936
+018-DP-Strongest-467-J.myg					936
+019-DP-Strongest-350-J.myg					936
+020-DP-Strongest-149-J.myg					936
+021-DP-Strongest-373-J.myg					936
+024-DP-Movie 08-486-J.myg					936
+025-DP-Movie 08-492-J.myg					936
+028-DP-McDonald's-25-J.myg					936
+029-DPHG-Bday 08-4-J.myg					936
+030-DPPt-Movie 09-493-J.myg					936
+032-DP-Tanabata 08-385-J.myg					936
+033-DPPtHGSS-PC YOK-25-J.myg					936
+034-DPPtHGSS-Bday 08-25-J.myg					936
+040-DPPtHGSS-Coll-133-J.myg					936
+041-DPPtHGSS-Onemuri-25-J.myg					936
+042-DPPt-Colored-P-172-J.myg					936
+043-DPPtHGSS-Osaka-52-J.myg					936
+045-DPPt-Lucario Doll-Itm-J.myg					936
+046-DPPt-NZ-385-J.myg					936
+047-DPPtHGSS-Bday 09-4-J.myg					936
+049-DPPtHGSS-Bday 09-390-J.myg					936
+050-DPHGSS-KYO-25-J.myg					936
+053-DPPtHGSS-Anniv-151-J.myg					936
+056-DPPtHGSS-Ario-25-J.myg					936
+057-DPPtHGSS-Bday 09-25-J.myg					936
+059-DPPtHGSS-Crown-243-J.myg					936
+060-DPPtHGSS-Crown-244-J.myg					936
+061-DPPtHGSS-Crown-245-J.myg					936
+062-DPPtHGSS-Movie 10-251-J.myg					936
+063-DPPtHGSS-Goon's-212-J.myg					936
+065-DPPtHGSS-Satoshi's-25-J.myg					936
+066-DPPtHGSS-NZ-490-J.myg					936
+067-DPPtHGSS-Bday 10-4-J.myg					936
+069-DPPtHGSS-7-Eleven-25-J.myg					936
+070-DPPtHGSS-Bday 10-390-J.myg					936

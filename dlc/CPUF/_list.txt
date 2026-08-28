@@ -1,18 +1,11 @@
-154p.myg					936
-17p.myg					936
-180dpp.myg					936
-18dpp.myg					936
-19dpp.myg					936
-201dppUNstopwatch.myg					936
-202dppUNalarmclock.myg					936
-203dppUNazureflute.myg					936
-207dppJPlucariodoll.myg					936
-20dpp.myg					936
-21dpp.myg					936
-24dppgs.myg					936
-59dppgs.myg					936
-60dppgs.myg					936
-61dppgs.myg					936
-62dppgs.myg					936
-65dppgs.myg					936
-68dppgs.myg					936
+017-Pt-Secret Key-Itm-F.myg					936
+018-Pt-Member Card-Itm-F.myg					936
+019-DPPt-Movie-493-F.myg					936
+020-Pt-Oak's Letter-Itm-F.myg					936
+021-DPPt-Colored-P-172-F.myg					936
+024-DPPtHGSS-NSky-385-F.myg					936
+059-DPPtHGSS-Winter-243-F.myg					936
+060-DPPtHGSS-Winter-244-F.myg					936
+061-DPPtHGSS-Winter-245-F.myg					936
+062-DPPtHGSS-Winter-251-F.myg					936
+180-DPPt-Movie-486-F.myg					936

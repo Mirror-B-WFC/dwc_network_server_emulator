@@ -21,6 +21,7 @@
 """
 
 import logging
+import socket
 import BaseHTTPServer
 import SocketServer
 import os
@@ -55,7 +56,7 @@ def handle_download_count(handler, dlc_path, post):
     handler.send_header("X-DLS-Host", "http://127.0.0.1/")
     return ret
 
-
+# TODO Base 64 ?
 def handle_download_list(handler, dlc_path, post):
     """Handle download list request."""
     ret = dlc.download_list(dlc_path, post)
@@ -90,6 +91,17 @@ def handle_download(handler, addr, post):
     dlc_dir = os.path.abspath("dlc")
     dlc_path = os.path.abspath(os.path.join("dlc", post["gamecd"]))
 
+    # If the base64-decoded path doesn't exist, fall back to the plain-decoded
+    # path that came from qs_to_dict_plain (for any client that doesn't
+    # base64-encode its DLS1 POST values).
+    if not os.path.exists(dlc_path) and "gamecd_plain" in post:
+        fallback = os.path.abspath(os.path.join("dlc", post["gamecd_plain"]))
+        if os.path.exists(fallback):
+            logger.log(logging.DEBUG, "handle_download: b64 path missing, using plain fallback: %s", fallback)
+            post["gamecd"] = post["gamecd_plain"]
+            post["rhgamecd"] = post.get("rhgamecd_plain") or post.get("rhgamecd", "")
+            dlc_path = fallback
+
     if os.path.commonprefix([dlc_dir, dlc_path]) != dlc_dir:
         logging.log(logging.WARNING,
                     'Attempted directory traversal attack "%s",'
@@ -123,7 +135,17 @@ class Dls1HTTPServerHandler(BaseHTTPServer.BaseHTTPRequestHandler):
     def do_POST(self):
         try:
             length = int(self.headers['content-length'])
-            post = utils.qs_to_dict(self.rfile.read(length))
+            body = self.rfile.read(length)
+
+            # DLS1 clients may use base64 or plain encoded URL values, depending on the sdk version.
+            #
+            # action/gamecd/rhgamecd/attr1/token/num/offset may all arrive as base64
+            #
+            # Parse base64 first; also stash plain values as fallback.
+            post = utils.qs_to_dict(body)
+            plain_post = utils.qs_to_dict_plain(body)
+            post["gamecd_plain"] = plain_post.get("gamecd", post.get("gamecd", ""))
+            post["rhgamecd_plain"] = plain_post.get("rhgamecd", post.get("rhgamecd", ""))
             client_address = (
                 self.headers.get('x-forwarded-for', self.client_address[0]),
                 self.client_address[1]
@@ -135,7 +157,8 @@ class Dls1HTTPServerHandler(BaseHTTPServer.BaseHTTPRequestHandler):
 
             if ret is not None:
                 self.send_header("Content-Length", str(len(ret)))
-                self.end_headers()
+            self.end_headers()
+            if ret is not None:
                 self.wfile.write(ret)
         except:
             logger.log(logging.ERROR, "Exception occurred on POST request!")

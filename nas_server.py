@@ -127,6 +127,9 @@ def handle_ac_svcloc(handler, db, addr, post):
     }
     authtoken = db.generate_authtoken(post["userid"], post)
 
+    svc = post.get('svc', None)
+    logger.log(logging.DEBUG, "Svcloc: svc=%r from %s:%d", svc, *addr)
+
     if 'svc' in post:
         if post["svc"] in ("9000", "9001"):
             # DLC host = 9000
@@ -140,19 +143,24 @@ def handle_ac_svcloc(handler, db, addr, post):
             # on, so only return the first one or else it
             # won't work
             ret["svchost"] = ret["svchost"].split(',')[0]
+            logger.log(logging.DEBUG, "svchost=%s", ret["svchost"])
 
             if post["svc"] == 9000:
                 ret["token"] = authtoken
+                logger.log(logging.DEBUG, "Svcloc svc=%s: returning 'token'", svc)
             else:
                 ret["servicetoken"] = authtoken
+                logger.log(logging.DEBUG, "Svcloc svc=%s: returning 'servicetoken'", svc)
         elif post["svc"] == "0000":
             # Pokemon requests this for some things
             ret["servicetoken"] = authtoken
             ret["svchost"] = "n/a"
+            logger.log(logging.DEBUG, "Svcloc svc=%s: returning 'servicetoken'", svc)
         else:
             # Empty svc - Fix Error Code 24101 (Boom Street)
             ret["svchost"] = "n/a"
             ret["servicetoken"] = authtoken
+            logger.log(logging.DEBUG, "Svcloc svc=%s: returning 'servicetoken'", svc)
 
     logger.log(logging.DEBUG, "Svcloc response to %s:%d", *addr)
     logger.log(logging.DEBUG, "%s", ret)
